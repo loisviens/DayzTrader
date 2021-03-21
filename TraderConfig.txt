@@ -40,24 +40,24 @@
 		TacticalBaconCan,		*,	   100,	  	50		
 		
 	<Category> Boisson 
-		WaterBottle,			*,	   200,     60
-		Canteen,				*,	   200, 	60
+		WaterBottle,			*,	   200,     50
+		Canteen,				*,	   200, 	50
 		SodaCan_Pipsi,			*,	   100, 	50
 		SodaCan_Spite,			*,	   100, 	50
 		SodaCan_Cola,			*,	   100, 	50
 		SodaCan_Kvass, 			*,	   200, 	50
-		Vodka,					*,	   400,     200
+		Vodka,					*,	   400,     100
 	
 	<Category> Medical
-		BloodTestKit,			*,	    200,    100
+		BloodTestKit,			*,	    200,    50
 		Heatpack,				*,		75,		25
-		StartKitIV,				*,	   	350,	150
-		SalineBag,				*,	   	300,	125
-		BloodBagEmpty,			*,	   	250,	125
-		FirstAidKit,			*,		150,	40
-		Epinephrine,			*,	   	700,	 70
-		VitaminBottle,			*,	   	700,    200	
-		Morphine,				*,	   	500,	 70	
+		StartKitIV,				*,	   	350,	50
+		SalineBag,				*,	   	300,	50
+		BloodBagEmpty,			*,	   	250,	50
+		FirstAidKit,			*,		150,	50
+		Epinephrine,			*,	   	700,	50
+		VitaminBottle,			*,	   	700,    50	
+		Morphine,				*,	   	500,	50	
 	
 	<Category> Money Exchange
 		MoneyRuble1,			1,		1,		-1
@@ -70,253 +70,232 @@
 
 <Trader> Quincaillerie
 	<Category> Petits Outils
-		Screwdriver,			*,	   600,		-1
-	    Wrench,					*,	  2500,     -1
-		Pliers,					*,	  1200,     -1
-	    WeaponCleaningKit,		*,	  5000,     -1
-		KitchenKnife,			*,	   400,	    -1
-		SteakKnife,				*,	   370,	    -1
-		HuntingKnife,			*,	   430,     -1
-		CanOpener,				*,	   200,	    -1
-		MetalWire,				*,	   900,	    -1
-		DuctTape,				*,	   500,	    -1
+		Screwdriver,			*,	   600,		 50
+	    Wrench,					*,	  2500,     150
+		Pliers,					*,	  1200,     100
+	    WeaponCleaningKit,		*,	  5000,     200
+		KitchenKnife,			*,	   400,	     50
+		SteakKnife,				*,	   370,	     50
+		HuntingKnife,			*,	   430,      50
+		CanOpener,				*,	   200,	     50
+		MetalWire,				*,	   900,	     50
+		DuctTape,				*,	   500,	     50
 
 	<Category> Grands Outils
-		Shovel,					*,	   700,	    -1
-		Pickaxe,				*,	   700,	    -1
-		SledgeHammer,			*,	   700,	    -1
-		WoodAxe,				*,	   700,	    -1
-		Hatchet,				*,     700,	    -1
-		Hammer,					*,	   300,	    -1
+		Shovel,					*,	   700,	     50
+		Pickaxe,				*,	   700,	     50
+		SledgeHammer,			*,	   700,	     50
+		WoodAxe,				*,	   700,	     50
+		Hatchet,				*,     700,	     50
+		Hammer,					*,	   300,	     50
 		
 	<Category> Electroniques
-		Battery9V,				*,	   100,		-1 
-		PersonalRadio,			*,	   100,	    -1
-		Megaphone,				*,	   200,		-1
-		CableReel,				*,	  2500,     -1
-		BatteryCharger,			*,	  7000,     -1
-		BaseRadio,				*,	  1000,	    -1
-		Rangefinder,			*,	   500,		-1
-		XmasLights,				*,	   100,		-1
-		CodeLock,				*,	 10000,	    -1
+		Battery9V,				*,	   100,		 50 
+		PersonalRadio,			*,	   100,	     50
+		Megaphone,				*,	   200,		 50
+		CableReel,				*,	  2500,     150
+		BatteryCharger,			*,	 10000,     250
+		BaseRadio,				*,	  1000,	    150
+		Rangefinder,			*,	   500,		 50
+		XmasLights,				*,	   100,		 50
+		CodeLock,				*,	 10000,	    250
 	
 	<Category> Eclairages
-		Matchbox,				*,		80,		-1
-		Flashlight,				*,		50,	    -1
-		PortableGasLamp,		*,	   200,	    -1
-		PortableGasStove,		*,	   200,		-1
-		Headtorch_Black,		*,	   200,		-1
-		Headtorch_Grey,			*,	   200,		-1
-		Spotlight,				*,	  2000,     -1
+		Matchbox,				*,	    80,		 50 
+		Flashlight,				*,		80,	     50 
+		PortableGasLamp,		*,	   200,	     50
+		PortableGasStove,		*,	   200,		 50
+		Headtorch_Black,		*,	    80,		 50
+		Headtorch_Grey,			*,	    80,		 50
+		Spotlight,				*,	  2000,     150
 		
 	<Category> OP_BaseItems  
-		Waterbarrel,			*,	  2000,	    -1
-		Locker,					*,	  3000,	    -1	
-		OP_Lockerblue,			*,	  5000,	    -1	
-		OP_StorageCabinetSmall, *,	  7000,	    -1	
-		OP_StorageCabinetGrey,	*,	  7000,	    -1	
-		OP_StorageCabinetBlack,	*,	  7000,	    -1	
-		OP_StorageCabinetGreen,	*,	  7000,	    -1	
-		OPLock,					*,   10000,		-1	
+		Waterbarrel,			*,	  2000,	    150
+		Locker,					*,	  3000,	    200	
+		OP_Lockerblue,			*,	  5000,	    250	
+		OP_StorageCabinetSmall, *,	  7000,	    250	
+		OP_StorageCabinetGrey,	*,	  7000,	    250	
+		OP_StorageCabinetBlack,	*,	  7000,	    250	
+		OP_StorageCabinetGreen,	*,	  7000,	    250	
+		OPLock,					*,   10000,		250	
 	
 	<Category> Divers
-	    Pot,					M,	  1000,		-1
-		Tripod,					*,	  1000,		-1
-		Pen_Blue,				*,		50,		-1
-		Pen_Red,				*,		50,		-1
-		Pen_Back,				*,		50,		-1
-		Pen_green,              *,		50,		-1
-		LargeGasCanister,		*,	   200,	    -1
-		NailBox,				*,	  1500,	    -1
-		SeaChest,				*,	  3000,	    -1
-		PowerGenerator,			*,	  5500,	    -1
-		GardenLime,				*,	   500,	    -1
+	    Pot,					M,	  1000,		100
+		Tripod,					*,	  1000,		100
+		Pen_Blue,				*,		50,		 10
+		Pen_Red,				*,		50,		 10
+		Pen_Back,				*,		50,		 10
+		Pen_green,              *,		50,		 10
+		LargeGasCanister,		*,	   200,	     50
+		NailBox,				*,	  1500,	    100
+		SeaChest,				*,	  3000,	    200
+		PowerGenerator,			*,	  5500,	    250
+		GardenLime,				*,	   500,	     50
 		
 	<Category> Stockage		
-		Msp_MilitaryLocker_Kit,				    W,    4000,	    -1
-		Msp_Locker_Kit,						    W,	  5500,	    -1
-		Msp_SoloLocker_Kit,					    W,	  3500,	    -1
-		Msp_SoloLocker_Black_Kit,			    W,	  3500,	    -1
-		Msp_SoloLocker_White_Kit,			    W,	  3500,	    -1
-		Msp_SoloLocker_Green_Kit,			    W,	  3500,	    -1
-		Msp_SoloLocker_Red_Kit,				    W,	  3500,	    -1
-		Msp_SoloLocker_RedRusty_Kit,		    W,	  3500,	    -1
-		Msp_SoloLocker_Yellow_Kit,			    W,	  3500,	    -1
-		Msp_SoloLocker_YellowRusty_Kit,		    W,	  3500,	    -1
-		Msp_OldLocker_Kit,					    W,	  3000,	    -1
-		Msp_OldLocker_Green_Kit,			    W,	  3000,	    -1
-		Msp_FourDoor_MilitaryLocker_Kit,		W,	  6200,	    -1
-		Msp_FourDoor_MilitaryLocker_Green_Kit,	W,	  6200,	    -1
+		Msp_MilitaryLocker_Kit,				    W,    4000,	    200
+		Msp_Locker_Kit,						    W,	  5500,	    250
+		Msp_SoloLocker_Kit,					    W,	  3000,	    200
+		Msp_SoloLocker_Black_Kit,			    W,	  3000,	    200
+		Msp_SoloLocker_White_Kit,			    W,	  3000,	    200
+		Msp_SoloLocker_Green_Kit,			    W,	  3000,	    200
+		Msp_SoloLocker_Red_Kit,				    W,	  3000,	    200
+		Msp_SoloLocker_RedRusty_Kit,		    W,	  3000,	    200
+		Msp_SoloLocker_Yellow_Kit,			    W,	  3000,	    200
+		Msp_SoloLocker_YellowRusty_Kit,		    W,	  3000,	    200
+		Msp_OldLocker_Kit,					    W,	  5500,	    250
+		Msp_OldLocker_Green_Kit,			    W,	  5500,	    250
+		Msp_FourDoor_MilitaryLocker_Kit,		W,	  6200,	    250
+		Msp_FourDoor_MilitaryLocker_Green_Kit,	W,	  6200,	    250
 		
 <Trader> Armes
 	<Category> Armes de poing NATO
-		Nagant1895_mung,							W,			1500,		-1
-		MKII,										W,			1500,		-1
-		M1935,                  					W,			1900,		-1
-		P99,                    					W,			1900,		-1
-		lebedev_PL15_mung,							W,			1900,		-1
-		glock_18,               					W,			1900,		-1
-		Glock19,									W,			1900,		-1
-		FP4_GLOCK19,								W,			1900,		-1
-		M9_Berreta,             					W,			1900,		-1
-		USP,										W,			1900,		-1
-		FNX45,										W,			2300,		-1
-		COLT_1911,              					W,			2300,		-1
-		Colt1911,									W,			2300,		-1
-        p220,                   					W,			2300,		-1
+		Nagant1895_mung,							W,			1500,		100
+		MKII,										W,			1500,		100
+		M1935,                  					W,			1900,		100
+		P99,                    					W,			1900,		100
+		lebedev_PL15_mung,							W,			1900,		100
+		glock_18,               					W,			1900,		100
+		Glock19,									W,			1900,		100
+		M9_Berreta,             					W,			1900,		100
+		USP,										W,			1900,		100
+		FNX45,										W,			2300,		150
+		COLT_1911,              					W,			2300,		150
+		Colt1911,									W,			2300,		150
+        p220,                   					W,			2300,		150
 		
 	<Category> Armes de poing Russe
-		MakarovIJ70,								W,		1500,	-1
-		PB1967,                 					W,		1500,	-1
-		APS_Pistol,									W,		1900,	-1
-		OTS33,										W,		1900,	-1
-		PM,											W,		1900,	-1
-		CZ75,										W,		1900,	-1
-		GSH18,                  					W,		1900,	-1
-		SR1M,                   					W,		1900,	-1
-		Pistol_Tokarev,         					W,		2100,	-1
-		Pistol_Tokarev_Old,    					 	W,		2100,	-1	
+		MakarovIJ70,								W,		1500,	100
+		PB1967,                 					W,		1500,	100
+		APS_Pistol,									W,		1900,	100
+		OTS33,										W,		1900,	100
+		PM,											W,		1900,	100
+		CZ75,										W,		1900,	100
+		GSH18,                  					W,		1900,	100
+		SR1M,                   					W,		1900,	100
+		Pistol_Tokarev,         					W,		2100,	150
 		
 	<Category> Fusils NATO
-		590_Shotgun,            					W,		5000,		-1
-		M500,										W,		5000,		-1
-		M1912_Shotgun,         						W,		5000,		-1
-		R870,										W,		5000,		-1
-		TOZ34,                  					W,		6000,	    -1
-		Izh43Shotgun,								W,		6000,	    -1
-		izh54_mung,									W,		6000,	    -1	
-		izh54_sawnoff_mung,                         W,      6000,       -1
+		590_Shotgun,            					W,		5000,		250
+		M1912_Shotgun,         						W,		5000,		250
+		R870,										W,		5000,		250
+		TOZ34,                  					W,		6000,	    250
+		Izh43Shotgun,								W,		6000,	    250
+		izh54_mung,									W,		6000,	    250
+		izh54_sawnoff_mung,                         W,      6000,       250
 		
 	<Category> Fusils Russe
-		Mp153Shotgun,								W,		5000,		-1
-		Mp153Shotgun_black,							W,		5000,		-1
-		Mp133Shotgun,								W,		6000,	    -1
-		saiga,										W,		50000,	    -1
-		VEPR12,										W,		50000,	    -1
-		VEPR12u,									W,		50000,	    -1
-		Saiga_12,               					W,		50000,	    -1
+		Mp153Shotgun,								W,		5000,		250
+		Mp133Shotgun,								W,		6000,	    250
+		saiga,										W,		50000,	   5000
+		VEPR12,										W,		50000,	   5000
+		VEPR12u,									W,		50000,	   5000
 
 	<Category> Pistolets Mitrailleur NATO
-		TEC9,										W,		 8000,	-1
-		MP40,										W,		 8000,	-1
-		MAC10,										W,		 9000,	-1
-		MAC10_desert,								W,		10000,	-1
-		MP5K,										W,		10000,	-1
-		Tompson,									W,		10000,	-1
-		FN_P90,										W,		18000,	-1
-		MPX,                                        W,      19000,  -1
-		HK_MP7,										W,		30000,	-1
-        UMP45,										W,		32000,	-1		
+		TEC9,										W,		 8000,	250
+		MP5K,										W,		10000,	250
+		Tompson,									W,		10000,	250
+		FN_P90,										W,		18000, 1800
+		HK_MP7,										W,		30000, 3000
+        UMP45,										W,		32000, 3200		
 		
 	<Category> Pistolets Mitrailleur Russe
-		CZ61,										W,		9000,	-1
-		PP19_01,									W,		9000,	-1
-		pp91,										W,		9000,	-1
-		SR2,										W,		9000,	-1
-		SR2_black,									W,		9000,	-1
-        FP4_AKS74U_Tactical,						W,		35000,	-1
-		AKS74U_Black,								W,		35000,	-1
-		AKS74U_Green,								W,		35000,	-1
-		AKS74U,										W,		35000,	-1
+		CZ61,										W,		9000,	250
+		PP19_01,									W,		9000,	250
+		pp91,										W,		9000,	250
+		SR2,										W,		9000,	250
+        FP4_AKS74U_Tactical,						W,		35000, 3500
+		AKS74U_Black,								W,		35000, 3500
+		AKS74U_Green,								W,		35000, 3500
+		AKS74U,										W,		35000, 3500
 		
 	<Category> Carabines NATO
-	    CZ527,										W,		9000,	-1
-		G_43,										W,		9000,	-1
-		Gewehr43_mung,								W,		9000,	-1
-		M1Carbine,									W,		9000,	-1
-		B95,										W,		9000,	-1
-		Lee_Enf4,									W,		9000,	-1
-		M1_Garand,									W,		9000,	-1
-		K_98,										W,	   50000,	-1
+	    CZ527,										W,		9000,	250
+		G_43,										W,		9000,	250
+		Gewehr43_mung,								W,		9000,	250
+		M1Carbine,									W,		9000,	250
+		B95,										W,		9000,	250
+		Lee_Enf4,									W,		9000,	250
+		K_98,										W,	   50000,  5000
 		
 	<Category> Carabines
-	    diana_m27_mung,								W,		4000,	-1
-		Ruger1022,                                  W,      5000,   -1
-		Izh18,										W,		5000,	-1
-		SawedoffIzh18,								W,		5500,	-1
-		SKS,										W,		8500,	-1
-		Repeater,									W,		8500,	-1
-		SawedoffMosin9130,							W,		9000,	-1
-		Mosin9130,									W,		9500,	-1
+	    diana_m27_mung,								W,		4000,	250
+		Ruger1022,                                  W,      5000,   250
+		Izh18,										W,		5000,	250
+		SawedoffIzh18,								W,		5500,	250
+		SKS,										W,		8500,	250
+		Repeater,									W,		8500,	250
+		SawedoffMosin9130,							W,		9000,	250
+		Mosin9130,									W,		9500,	250
 		
 	<Category> Fusils d'assaut NATO
-	    L85A2_NoGrip,								W,		65000,		-1
-		SG552,										W,		65000,		-1
-		SG550,										W,		70000,		-1
-	    KAC,										W,		70000,		-1
-		L85A2,										W,		70000,		-1 
-	    F2000,										W,		80000,		-1
-	    G36_C,										W,		90000,		-1
-	    ACE23,										W,		160000,		-1
-	    DDM,										W,		160000,		-1
-	    FNC,										W,		160000,		-1
-	    HK416A5,									W,		160000,		-1
-	    HK_416,										W,		160000,		-1
-	    M4A1,										W,		160000,		-1
+	    L85A2_NoGrip,								W,		65000,	  6500
+		SG552,										W,		65000,	  6500
+		SG550,										W,		70000,	  7000
+	    KAC,										W,		70000,	  7000
+		L85A2,										W,		70000,    7000 
+	    F2000,										W,		80000,	  8000
+	    G36_C,										W,		90000,	  9000
+	    ACE23,										W,		160000,	 16000
+	    DDM,										W,		160000,	 16000
+	    FNC,										W,		160000,	 16000
+	    HK416A5,									W,		160000,	 16000
+	    HK_416,										W,		160000,	 16000
+	    M4A1,										W,		160000,	 16000
 		
 	<Category> Fusils d'assaut Russe
-	    FP4_Groza,									W,		60000,		-1
-	    AK74UM,										W,		70000,		-1
-		AEK971,										W,		70000,		-1
-		SA_VZ58,									W,		70000,		-1
-	    AK74,										W,		75000,		-1
-		RK62,										W,		75000,		-1
-		AK12,										W,		75000,		-1
-	    AK101,										W,		80000,		-1
-		AS_VAL,										W,		80000,		-1
-		AN94,										W,		85000,		-1
-		AKM,										W,		90000,		-1
-		AEK973,										W,		90000,		-1
+	    FP4_Groza,									W,		60000,	  6000
+		AEK971,										W,		70000,	  7000
+		SA_VZ58,									W,		70000,	  7000
+	    AK74,										W,		75000,	  7500
+		RK62,										W,		75000,	  7500
+		AK12,										W,		75000,	  7500
+	    AK101,										W,		80000,	  8000
+		AS_VAL,										W,		80000,	  8000
+		AN94,										W,		85000,	  8500
+		AKM,										W,		90000,	  9000
+		AEK973,										W,		90000,    9000
 
 	<Category> Mitrailleuses NATO
-		STG_44,										W,		50000,		-1
+		STG_44,										W,		50000,	  5000
 		
 	<Category> Mitrailleuses Russe
-		FP4_PPSH,									W,		60000,		-1
-		RPK, 										W,		90000,		-1
-		RPD,										W,		120000,		-1
+		FP4_PPSH,									W,		60000,	  6000
+		RPK, 										W,		90000,	  9000
+		RPD,										W,		120000,	 12000
 		
 	<Category> Fusils Sniper NATO
-	    Winchester70,								W,		 25000,		-1
-	    FP4_SOCOM_16,								W,		130000,		-1
-	    R700,										W,		160000,		-1
-	    PSG1,										W,		180000,		-1
-		FP4_M24_Rifle,								W,		180000,		-1
-		FP4_M24_Rifle_Snake,						W,		240000,		-1
-	    CS5,										W,		200000,		-1
-	    csmcmillan_mung,							W,		200000,		-1
+	    Winchester70,								W,		 25000,	  2500
+	    FP4_SOCOM_16,								W,		130000,	 13000
+	    R700,										W,		160000,	 16000
+	    PSG1,										W,		180000,  18000
+		FP4_M24_Rifle,								W,		180000,	 18000
+		FP4_M24_Rifle_Snake,						W,		240000,	 24000
+	    csmcmillan_mung,							W,		200000,	 20000
 		
 	<Category> Fusils Sniper Russe
-	    svt40,										W,		30000,		-1
-		VSK94,              						W,		70000,		-1
-	    VSS,										W,		70000,		-1
-        Vintorez,                           		W,	 	70000,		-1
-		SV98,										W,	 	190000,		-1
-		SVD,										W,		190000,		-1
-	    SVD_1963,									W,		190000,		-1		
+	    svt40,										W,		30000,	  3000
+		VSK94,              						W,		70000,	  7000
+	    VSS,										W,		70000,	  7000
+        Vintorez,                           		W,	 	70000,	  7000
+		SV98,										W,	 	190000,	 19000
+		SVD,										W,		190000,	 19000
+	    SVD_1963,									W,		190000,	 19000		
 		
 	<Category> Armes Rare
-		Engraved1911,								W,		15000,		 -1
-		COLT_1911_red,								W,		15000,		 -1
-		COLT_1911_Fury,								W,		15000,		 -1
-		Magnum,                                     W,      15000,		 -1
-		Deagle,                                     W,		15000,		 -1
-		Deagle_Gold,                                W,		15000,		 -1
-		FP4_DesetEagle,								W,		15000,		 -1
-		FP4_DesetEagle_Dark,						W,		15000,		 -1
-		FP4_DE,										W,		16000,		 -1
-		m82_308win,									W,		700000,		 -1
-		FN_SCAR_H,									W,		750000,		 -1
-		FN_SCAR_Black,								W,		750000,		 -1
-		FAL,										W,		750000,		 -1
-		L96A1,										W,		750000,		 -1
-		m300_cheytac,								W,		800000,		 -1
-		M98B,										W,		800000,		 -1
-		L96A1_tactical,								W,		800000,		 -1
-		PKP,										W,		850000,		 -1
-		M200_Intervention,							W,		1000000,	 -1
-		m82,										W,		1500000,	 -1
-		VSSK,										W,		1700000,	 -1
+		Engraved1911,								W,		15000,	   1500
+		Magnum,                                     W,      15000,	   1500
+		Deagle,                                     W,		15000,	   1500
+		Deagle_Gold,                                W,		15000,	   1500
+		FN_SCAR_H,									W,		750000,	  75000
+		FAL,										W,		750000,	  75000
+		L96A1,										W,		750000,	  80000
+		M98B,										W,		800000,	  80000
+		L96A1_tactical,								W,		800000,	  80000
+		PKP,										W,		850000,	  85000
+		M200_Intervention,							W,		1000000, 100000
+		m82,										W,		1500000, 150000
+		VSSK,										W,		1700000, 170000
 		
 <Trader> Munitions, Accessoires armes
 	<Category> Munition	
@@ -328,7 +307,6 @@
 		AmmoBox_00buck_10rnd,	        *,		  500,		50
 		AmmoBox_12gaSlug_10Rnd,	        *,		  500,		50
 		AmmoBox_12gaRubberSlug_10Rnd,   *,        500,      50 
-		AmmoBox_12gaBeanbag_10Rnd,      *,        500,      50 
 		AmmoBox_9x19_25rnd,		        *,		  700,	    50
 		AmmoBox_9x18,                   *,		  700,	    50
 		AmmoBox_45ACP_25rnd,	        *,		  700,		50
@@ -353,7 +331,6 @@
         AmmoBox_762x33_20Rnd,		     *,		 2100,	    150
 		AmmoBox_792x57_25Rnd,            *,		 2100,	    150
 		AmmoBox_792x33,					 *,		 2100,	    150
-		AmmoBox_5_9_x28,                 *,      2100,      150
 		AmmoBox_303_15rnd,               *,      2100,      150 
 		AmmoBox_12x99_10Rnd,			 *,		 2700,	    150
 		AmmoBox_12x99_10Rnd_TracerGreen, *,      2700,      150
@@ -361,305 +338,283 @@
 		AmmoBox_408CT_10Rnd,			 *,		 2700,      150
 		
 	<Category> Chargeurs
-		Mag_DE_9rnd,								M,	   	500,		100
-		FP4_Mag_DE_9Rnd,							M,	    500,		100
-		Mag_Deagle_9rnd,                            M,		500,		100
-		Mag_DesertEgle_9rnd,						M,		500,		100
-		Mag_M82_10Rnd308,							M,		500,		100
-		Mag_SCAR_H_20rnd,							M,		750,		100
+		Mag_Deagle_9rnd,                            M,		500,		50
+		Mag_M82_10Rnd308,							M,		500,		50
+		Mag_SCAR_H_20rnd,							M,		750,		50
 		Mag_PKP_200Rnd,								M,		1000,   	100
 		Mag_l96a1_5rnd,								M,		1500,		100
-		Mag_M300_7Rnds,								M,		1500,		100
-		Mag_M82_10Rnd,   					   		M,		2500,		100
-		Mag_M200_7Rnds,								M,	    3500,   	100
-		Mag_VSSK_5Rnd,								M,	    4500,		100
-		Mag_M98B_10rnd,								M,		5000,  		100
+		Mag_M82_10Rnd,   					   		M,		2500,		150
+		Mag_M200_7Rnds,								M,	    3500,   	150
+		Mag_VSSK_5Rnd,								M,	    4500,		200
+		Mag_M98B_10rnd,								M,		5000,  		250
 
 	<Category> Chargeurs NATO
-		Mag_CZ527_5rnd,								M,		200,	100
-		Mag_1911_7Rnd,								M,		200,	100
-		Mag_lebedev_PL15_16Rnd,						M,		200,	100
-		M_1911_7Rnd,								M,		200,	100
-		Mag_P220_8rnd,								M,		200,	100
-		Mag_gewehr43_10Rnd_mung,					M,		200,	100
-		Mag_MKII_10Rnd,								M,		200,	100
-		Mag_g43_10Rnd,								M,		200,	100
-		Mag_USP_12Rnd,								M,		200,	100
-		Mag_M1935_13Rnd,							M,		200,	100
-		Mag_M9_15Rnd,								M,		200,	100
-		Mag_FNX45_15Rnd,							M,		200,	100
-		Mag_Glock_15Rnd,							M,		200,	100
-		FP4_Mag_Glock_15Rnd,						M,		200,	100
-		Mag_PP99_16Rnd,								M,		200,	100
-		Mag_GLOCK_18_17Rnd,							M,		200,	100
-		Mag_g36c_30Rnds,							M,		400,	100
-		Mag_Vss_10Rnds,								M,		400,	100
-		Mag_VSS_10Rnd,								M,		400,	100
-		Mag_CMAG_10Rnd,								M,		400,	100
-		Mag_CMAG_10Rnd_Black,						M,		400,	100
-		Mag_CMAG_10Rnd_Green,						M,		400,	100
-		Mag_MP5_15Rnd,								M,		400,	100
-		Mag_M1_15Rnds,								M,		400,	100
-		Mag_Tompson_30Rnd,							M,		400,	100
-		Mag_MP40_30Rnd,								M,		400,	100
-		Mag_SG550_30Rnd,							M,		400,	100
-		Mag_SG552_30Rnd,							M,		400,	100
-		Mag_Nailgun_50n,							M,		400,	100
-		Mag_CBJ_20Rnd,								M,		400,	100
-		Mag_MP7_20Rnds,								M,		400,	100
-		Mag_CBJ_30Rnd,								M,		400,	100
-		Mag_MAC10_30Rnd,							M,		400,	100
-		Mag_MP5_30Rnd,								M,		500,	100
-		Mag_CMAG_20Rnd,								M,		500,	100
-		Mag_CMAG_20Rnd_Black,						M,		500,	100
-		Mag_CMAG_20Rnd_Green,						M,		500,	100
-		Mag_UMP_25Rnd,								M,		500,	100
-		Mag_ACE23_30Rnd,							M,		600,	100
-		Mag_STANAG_30Rnd,							M,		600,	100
-		Mag_FNC_30Rnd,								M,		600,	100
-		Mag_CMAG_30Rnd,								M,		600,	100
-		Mag_CMAG_30Rnd_Black,						M,		600,	100
-		Mag_CMAG_30Rnd_Green,						M,		600,	100
-		Mag_KAC_30rnd,								M,		600,	100
-		Mag_STG44_30Rnd,							M,		600,	100
-		Mag_Vss_10Rnds_coupled,						M,		700,	100
-		Mag_TEC9_32Rnd,								M,		700,	100
-		Mag_MP7_40Rnds,								M,		700,	100
-		Mag_Tompson_50Rnd,							M,		700,	100
-		Mag_FAL_20Rnd,								M,		700,	100
-		Mag_PSG_5Rnd,								M,		700,	100
-		Mag_SOCOM_10Rnds,							M,		700,	100
-		Magazine_M24_10rnd,							M,		700,	100
-		Mag_CS5_10rnd,								M,		700,	100
-		Mag_cs5_10Rnd_mung,							M,		700,	100
-		Mag_CBJ_50Rnd,								M,	    800,	100
-		Mag_L85A2_30Rnd,							M,	    800,	100
-		Mag_CMAG_40Rnd,								M,	    800,	100
-		Mag_CMAG_40Rnd_Black,						M,	    800,	100
-		Mag_CMAG_40Rnd_Green,						M,	    800,	100
-		Mag_P90_50Rnd,								M,	    800,	100
-		Mag_DDM_30Rnd,								M,	    800,	100
+		Mag_CZ527_5rnd,								M,		200,	50
+		Mag_1911_7Rnd,								M,		200,	50
+		Mag_lebedev_PL15_16Rnd,						M,		200,	50
+		Mag_P220_8rnd,								M,		200,	50
+		Mag_gewehr43_10Rnd_mung,					M,		200,	50
+		Mag_MKII_10Rnd,								M,		200,	50
+		Mag_g43_10Rnd,								M,		200,	50
+		Mag_USP_12Rnd,								M,		200,	50
+		Mag_M1935_13Rnd,							M,		200,	50
+		Mag_M9_15Rnd,								M,		200,	50
+		Mag_FNX45_15Rnd,							M,		200,	50
+		Mag_Glock_15Rnd,							M,		200,	50
+		Mag_PP99_16Rnd,								M,		200,	50
+		Mag_GLOCK_18_17Rnd,							M,		200,	50
+		Mag_g36c_30Rnds,							M,		400,	50
+		Mag_VSS_10Rnd,								M,		400,	50
+		Mag_CMAG_10Rnd,								M,		400,	50
+		Mag_CMAG_10Rnd_Black,						M,		400,	50
+		Mag_CMAG_10Rnd_Green,						M,		400,	50
+		Mag_MP5_15Rnd,								M,		400,	50
+		Mag_M1_15Rnds,								M,		400,	50
+		Mag_Tompson_30Rnd,							M,		400,	50
+		Mag_SG550_30Rnd,							M,		400,	50
+		Mag_SG552_30Rnd,							M,		400,	50
+		Mag_MP7_20Rnds,								M,		400,	50
+		Mag_MP5_30Rnd,								M,		500,	50
+		Mag_CMAG_20Rnd,								M,		500,	50
+		Mag_CMAG_20Rnd_Black,						M,		500,	50
+		Mag_CMAG_20Rnd_Green,						M,		500,	50
+		Mag_UMP_25Rnd,								M,		500,	50
+		Mag_STANAG_30Rnd,							M,		600,	50
+		Mag_FNC_30Rnd,								M,		600,	50
+		Mag_CMAG_30Rnd,								M,		600,	50
+		Mag_CMAG_30Rnd_Black,						M,		600,	50
+		Mag_CMAG_30Rnd_Green,						M,		600,	50
+		Mag_KAC_30rnd,								M,		600,	50
+		Mag_STG44_30Rnd,							M,		600,	50
+		Mag_Vss_10Rnds_coupled,						M,		700,	50
+		Mag_TEC9_32Rnd,								M,		700,	50
+		Mag_MP7_40Rnds,								M,		700,	50
+		Mag_Tompson_50Rnd,							M,		700,	50
+		Mag_FAL_20Rnd,								M,		700,	50
+		Mag_PSG_5Rnd,								M,		700,	50
+		Mag_SOCOM_10Rnds,							M,		700,	50
+		Magazine_M24_10rnd,							M,		700,	50
+		Mag_CS5_10rnd,								M,		700,	50
+		Mag_cs5_10Rnd_mung,							M,		700,	50
+		Mag_L85A2_30Rnd,							M,	    800,	50
+		Mag_CMAG_40Rnd,								M,	    800,	50
+		Mag_CMAG_40Rnd_Black,						M,	    800,	50
+		Mag_CMAG_40Rnd_Green,						M,	    800,	50
+		Mag_P90_50Rnd,								M,	    800,	50
+		Mag_DDM_30Rnd,								M,	    800,	50
 		Mag_STANAGCoupled_30Rnd,					M,	   1500,	100
-		Mag_CMAG_100Rnd,							M,	   2300,    100
+		Mag_CMAG_100Rnd,							M,	   2300,    150
 	
 	<Category> Chargeurs Russe
-		Mag_USP_12Rnd,								M,		200,	100
-		Mag_Ruger1022_10Rnd,                        M,		200,	100
-		Mag_Ruger1022_15Rnd,                        M,		200,	100
-		Mag_Ruger1022_30Rnd,                        M,		200,	100
-		Mag_Saiga_5Rnd,								M,		200,	100
-		Mag_Saiga_8Rnd,								M,		200,	100
-		Mag_MakarovPB_8Rnd,							M,		200,	100
-		Mag_IJ70_8Rnd,								M,		200,	100
-		Mag_PM_8Rnd,								M,		200,	100
-		Mag_Tokarev_8Rnd,							M,		200,	100
-		Mag_VSS_10Rnd,								M,		400,	100
-		Mag_svt_10rnd,								M,		400,	100
-		Mag_vepr_10Rnd,								M,		400,	100
-		Mag_CZ75_15Rnd,								M,		400,	100
-		Mag_PP99_16Rnd,								M,		400,	100
-		Mag_SR1M_18Rnd,								M,		400,	100
-		Mag_GSH18_18Rnd,							M,		400,	100
-		Mag_CZ61_20Rnd,								M,		400,	100
-		Mag_VZ58_30Rnd,								M,		400,	100
-		Mag_357SpeedLoader_6Rnd,                    M,		500,	100
-		Mag_APS_20Rnds,								M,		500,	100
-		Mag_Groza_20Rnd,							M,		500,	100
-		FP4_Mag_Groza_20Rnd,						M,		500,	100
-		Mag_VAL_20Rnd,								M,		500,	100
-		Mag_vepr_20Rnd,								M,		500,	100
-		Mag_SV98_10Rnd,								M,		500,	100
-		Mag_SVD_10Rnd,								M,		500,	100
-		Mag_VSK94_20Rnd,							M,		500,	100
-		Mag_OTS_27Rnd,								M,		500,	100
-		Mag_PP19_30Rnd,								M,		500,	100
-		Mag_SR2_30Rnd,								M,		500,	100
-		Mag_AK74UM_30Rnd,							M,		600,	100
-		Mag_AK74_30Rnd,								M,		600,	100
-		Mag_AK74_30Rnd_Black,						M,		600,	100
-		Mag_AK74_30Rnd_Green,						M,		600,	100
-		Mag_AK101_30Rnd,							M,		600,	100
-		Mag_AK101_30Rnd_Black,						M,		600,	100
-		Mag_AK101_30Rnd_Green,						M,		600,	100
-		Mag_AKM_30Rnd,								M,		600,	100
-		Mag_AKM_Palm30Rnd,							M,		600,	100
-		Mag_AKM_Palm30Rnd_Black,					M,		600,	100
-		Mag_AKM_Palm30Rnd_Green,					M,		600,	100
-		Mag_VAL_20Rnd_coupled,						M,		600,	100
-		Mag_RPK_40Rnd,								M,		700,	100
-		Mag_RPK_40RndSpar,							M,		700,	100
-		Mag_PPSH_50Rnd,								M,		700,	100
-		Mag_vepr_35Rnd,								M,		700,	100
-		Mag_Saiga_Drum20Rnd,						M,		700,	100
-		FP4_Mag_Saiga_5Rnd,							M,	    700,	100
-		FP4_Mag_Saiga_8Rnd,							M,	    700,	100
-		FP4_Mag_Saiga_Drum20Rnd,					M,		700,	100
-		Mag_AKM_Drum75Rnd,							M,	   2300,	100
-		Mag_AKM_Drum75Rnd_Black,					M,	   2300,	100
-		Mag_AKM_Drum75Rnd_Green,					M,	   2300,	100
-		Mag_RPD_100Rnd,								M,	   2300,	100
+		Mag_USP_12Rnd,								M,		200,	50
+		Mag_Ruger1022_10Rnd,                        M,		200,	50
+		Mag_Ruger1022_15Rnd,                        M,		200,	50
+		Mag_Ruger1022_30Rnd,                        M,		200,	50
+		Mag_Saiga_5Rnd,								M,		200,	50
+		Mag_Saiga_8Rnd,								M,		200,	50
+		Mag_MakarovPB_8Rnd,							M,		200,	50
+		Mag_IJ70_8Rnd,								M,		200,	50
+		Mag_PM_8Rnd,								M,		200,	50
+		Mag_Tokarev_8Rnd,							M,		200,	50
+		Mag_VSS_10Rnd,								M,		400,	50
+		Mag_svt_10rnd,								M,		400,	50
+		Mag_CZ75_15Rnd,								M,		400,	50
+		Mag_PP99_16Rnd,								M,		400,	50
+		Mag_SR1M_18Rnd,								M,		400,	50
+		Mag_GSH18_18Rnd,							M,		400,	50
+		Mag_CZ61_20Rnd,								M,		400,	50
+		Mag_VZ58_30Rnd,								M,		400,	50
+		Mag_357SpeedLoader_6Rnd,                    M,		500,	50
+		Mag_APS_20Rnds,								M,		500,	50
+		Mag_Groza_20Rnd,							M,		500,	50
+		FP4_Mag_Groza_20Rnd,						M,		500,	50
+		Mag_VAL_20Rnd,								M,		500,	50
+		Mag_SV98_10Rnd,								M,		500,	50
+		Mag_SVD_10Rnd,								M,		500,	50
+		Mag_VSK94_20Rnd,							M,		500,	50
+		Mag_OTS_27Rnd,								M,		500,	50
+		Mag_PP19_30Rnd,								M,		500,	50
+		Mag_SR2_30Rnd,								M,		500,	50
+		Mag_AK74_30Rnd,								M,		600,	50
+		Mag_AK74_30Rnd_Black,						M,		600,	50
+		Mag_AK74_30Rnd_Green,						M,		600,	50
+		Mag_AK101_30Rnd,							M,		600,	50
+		Mag_AK101_30Rnd_Black,						M,		600,	50
+		Mag_AK101_30Rnd_Green,						M,		600,	50
+		Mag_AKM_30Rnd,								M,		600,	50
+		Mag_AKM_Palm30Rnd,							M,		600,	50
+		Mag_AKM_Palm30Rnd_Black,					M,		600,	50
+		Mag_AKM_Palm30Rnd_Green,					M,		600,	50
+		Mag_RPK_40Rnd,								M,		700,	50
+		Mag_RPK_40RndSpar,							M,		700,	50
+		Mag_PPSH_50Rnd,								M,		700,	50
+		Mag_vepr_35Rnd,								M,		700,	50
+		Mag_Saiga_Drum20Rnd,						M,		700,	50
+		Mag_AKM_Drum75Rnd,							M,	   2300,	150
+		Mag_AKM_Drum75Rnd_Black,					M,	   2300,	150
+		Mag_AKM_Drum75Rnd_Green,					M,	   2300,	150
+		Mag_RPD_100Rnd,								M,	   2300,	150
 
 	<Category> Garde-mains NATO
-		MP5_PlasticHndgrd,							*,			400,	150
-		MP5_RailHndgrd,								*,			400,	150
-		M4_PlasticHndgrd,							*,			400,	150
-		M4_PlasticHndgrd_Green,						*,			400,	150
-		M4_RISHndgrd,								*,			400,	150
-		M4_RISHndgrd_Green,							*,			400,	150
-		M4_MPHndgrd,								*,			400,	150
-		mcmillan_buttstock,							*,			400,	150
+		MP5_PlasticHndgrd,							*,			400,	50
+		MP5_RailHndgrd,								*,			400,    50
+		M4_PlasticHndgrd,							*,			400,	50
+		M4_PlasticHndgrd_Green,						*,			400,	50
+		M4_RISHndgrd,								*,			400,	50
+		M4_RISHndgrd_Green,							*,			400,	50
+		M4_MPHndgrd,								*,			400,	50
 
 	<Category> Crosses NATO
-		M4_OEBttstck,								*,			500,	200
-		M4_MPBttstck,								*,			500,	200
-		M4_CQBBttstck,								*,			500,	200
-		MP5k_StockBttstck,							*,			500,	200
-		Fal_FoldingBttstck,							*,			500,	200
-		HK416A5_Bttstck,							*,	 		500,	200
-		FP4_HK_416_Buttstock,						*,			500,	200
-		Fal_OeBttstck,								*,			500,	200
-		zenitco_pt3_buttstock,						*,			500,	200	
+		M4_OEBttstck,								*,			500,	50
+		M4_MPBttstck,								*,			500,	50
+		M4_CQBBttstck,								*,			500,	50
+		MP5k_StockBttstck,							*,			500,	50
+		Fal_FoldingBttstck,							*,			500,	50
+		HK416A5_Bttstck,							*,	 		500,	50
+		FP4_HK_416_Buttstock,						*,			500,	50
+		Fal_OeBttstck,								*,			500,	50
+		zenitco_pt3_buttstock,						*,			500,	50	
+		mcmillan_buttstock,							*,			400,	50
 		
 	<Category> Garde-mains Russe
-		AK74_Hndgrd,								*,		400,	150
-		AK74_Hndgrd_Black,							*,		400,	150
-		AK74_Hndgrd_Camo,							*,		400,	150
-		AK_WoodHndgrd,								*,		400,	150
-		AK_WoodHndgrd_Black,						*,		400,	150
-		AK_WoodHndgrd_Camo,							*,		400,	150
-		AK_WoodSteel_Hndgrd,						*,		400,	150
-		AK_Wood_Insulating_Hndgrd,					*,		400,	150
-		AK_PlasticHndgrd,							*,		400,	150
-		AK_Hndgrd_M,								*,		400,	150
-		AK_RailHndgrd,								*,		400,	150
-		AK_RailHndgrd_Black,						*,		400,	150
-		AK_RailHndgrd_Green,						*,		400,	150
-		AK_PLAS_TAC_HGRD,							*,		400,	150
-		AKS74U_Bttstck,								*,		400,	150
+		AK74_Hndgrd,								*,		400,	50
+		AK74_Hndgrd_Black,							*,		400,	50
+		AK74_Hndgrd_Camo,							*,		400,	50
+		AK_WoodHndgrd,								*,		400,	50
+		AK_WoodHndgrd_Black,						*,		400,	50
+		AK_WoodHndgrd_Camo,							*,		400,	50
+		AK_WoodSteel_Hndgrd,						*,		400,	50
+		AK_Wood_Insulating_Hndgrd,					*,		400,	50
+		AK_PlasticHndgrd,							*,		400,	50
+		AK_Hndgrd_M,								*,		400,	50
+		AK_RailHndgrd,								*,		400,	50
+		AK_RailHndgrd_Black,						*,		400,	50
+		AK_RailHndgrd_Green,						*,		400,	50
+		AK_PLAS_TAC_HGRD,							*,		400,	50
+		AKS74U_Bttstck,								*,		400,	50
 
 	<Category> Crosses Russe
-		AK74_WoodBttstck,							*,		500,	200
-		AK74_WoodBttstck_Black,						*,		500,	200
-		AK74_WoodBttstck_Camo,						*,		500,	200
-		AK_WoodBttstck,								*,		500,	200
-		AK_WoodBttstck_Black,						*,		500,	200
-		AK_WoodBttstck_Camo,						*,		500,	200
-		AK_FoldingBttstck,							*,		500,	200
-		AK_FoldingBttstck_Green,					*,		500,	200
-		AK_PlasticBttstck,							*,		500,	200
-		AK_PlasticBttstck_Green,					*,		500,	200
-		AKS74U_Bttstck,								*,		500,	200
-		AKS74U_Bttstck_Green,						*,		500,	200
-		Saiga_Bttstck,								*,		500,	200
-		AN94_PlastickBttstck,						*,		500,	200
-		AK_Bttstck_M,								*,		500,	200
-		VEPR12_Buttstock,							*,		500,	200
-		zenitco_pt3_buttstock,						*,		500,	200		
+		AK74_WoodBttstck,							*,		500,	50
+		AK74_WoodBttstck_Black,						*,		500,	50
+		AK74_WoodBttstck_Camo,						*,		500,	50
+		AK_WoodBttstck,								*,		500,	50
+		AK_WoodBttstck_Black,						*,		500,	50
+		AK_WoodBttstck_Camo,						*,		500,	50
+		AK_FoldingBttstck,							*,		500,	50
+		AK_FoldingBttstck_Green,					*,		500,	50
+		AK_PlasticBttstck,							*,		500,	50
+		AK_PlasticBttstck_Green,					*,		500,	50
+		AKS74U_Bttstck,								*,		500,	50
+		AKS74U_Bttstck_Green,						*,		500,	50
+		Saiga_Bttstck,								*,		500,	50
+		AN94_PlastickBttstck,						*,		500,	50
+		AK_Bttstck_M,								*,		500,	50
+		VEPR12_Buttstock,							*,		500,	50
+		zenitco_pt3_buttstock,						*,		500,	50
+        VSK94_Butt_Plastik,                         *,		500,	50
+		VSK94_Butt_Stell,                           *,		500,	50
 	
-		
 	<Category> Optics
-		<Category> Optics
-		M4_CarryHandleOptic,	*,		150,	75
-		BUISOptic,				*,		150,	75
-		FNP45_MRDSOptic,		*,		250,	150
-		ACOGOptic,				*,		300,	150
-		M68Optic,				*,		500,	150
-		M4_T3NRDSOptic,			*,		500,	150
-		KobraOptic,				*,		600,	150
-		KashtanOptic,			*,		700,	150
-		PUScopeOptic,			*,		900,	150
-		HuntingOptic,			*,		1000,	150
-		PSO1Optic,				*,		1100,	150
-		PSO11Optic,				*,		1400,	150	
-		Leupold_mung,           *,      2200,   150
-		ReflexOptic,		    *,	    1500,	150		
-		GrozaOptic,				*,		1500,	150
-		FP4_Golo_optic,			*,		1500,	150
-		F2000_optic,			*,		1500,	150
-		LongrangeOptic,		    *,		5000,	200
-		FalconOptic,			*,		5000,	200
-		L96A1_Optic,			*,		5000,	200
-		PN23Optic,				*,		7000,   200
-		KazuarOptic,			*,		9000,	250
+		M4_CarryHandleOptic,	*,		150,	50
+		BUISOptic,				*,		150,	50
+		FNP45_MRDSOptic,		*,		250,	50
+		ACOGOptic,				*,		300,	50
+		M68Optic,				*,		500,	50
+		M4_T3NRDSOptic,			*,		500,	50
+		KobraOptic,				*,		600,	50
+		KashtanOptic,			*,		700,	50
+		PUScopeOptic,			*,		900,	50
+		HuntingOptic,			*,		1000,  100
+		PSO1Optic,				*,		1100,  100
+		PSO11Optic,				*,		1400,  100	
+		Leupold_mung,           *,      2200,  150
+		ReflexOptic,		    *,	    1500,  100		
+		GrozaOptic,				*,		1500,  100
+		FP4_Golo_optic,			*,		1500,  100
+		F2000_optic,			*,		1500,  100
+		LongrangeOptic,		    *,		5000,  250
+		FalconOptic,			*,		5000,  250
+		L96A1_Optic,			*,		5000,  250
+		PN23Optic,				*,		7000,  250
+		KazuarOptic,			*,	   10000,  250
 	
 	<Category> Silencieux
-		PistolSuppressor,		*,			5000,	 150
-		USP_Suppressor,			*,			5000,	 150
-		Tundra_Suppressor,      *,			5000,	 150
-		Tec9_Suppressor,		*,			5000,	 150
-		M4_Suppressor,			*,			5000,	 150
-		AK_Suppressor,			*,			5000,	 150
-		556_Suppressor,        	*,			5000,    150
-        HX762_Suppressor,       *,			5000,	 150
-        PBS1_Suppressor,        *,			5000,	 150
-        PBS4_Suppressor,        *,			5000,	 150
+		PistolSuppressor,		*,			5000,	 250
+		USP_Suppressor,			*,			5000,	 250
+		Tundra_Suppressor,      *,			5000,	 250
+		M4_Suppressor,			*,			5000,	 250
+		AK_Suppressor,			*,			5000,	 250
+		556_Suppressor,        	*,			5000,    250
+        HX762_Suppressor,       *,			5000,	 250
+        PBS1_Suppressor,        *,			5000,	 250
+        PBS4_Suppressor,        *,			5000,	 250
+		VSK94_Suppressor,       *,			5000,	 250
 		
 	<Category> Compensateurs
-		Mosin_Compensator,		*,		1000,	  50
-		MP5_Compensator,		*,		1000,	  50
+		Mosin_Compensator,		*,		1000,	  100
+		MP5_Compensator,		*,		1000,	  100
 
 	<Category> Bayonets
-		Mosin_Bayonet,			*,		500,	  150
-		M9A1_Bayonet,			*,		500,	  150
-		AK_Bayonet,				*,		500,	  150
-		SKS_Bayonet,			*,		500,	  150
-        CombatKnife,            *,      300,       50
-		HuntingKnife,           *,      300,       50
-		Msp_Vorpalknife,        *,      300,       50
-        bowieknife_mung,  		*,      300,       50
+		Mosin_Bayonet,			*,		500,	  50
+		M9A1_Bayonet,			*,		500,	  50
+		AK_Bayonet,				*,		500,	  50
+		SKS_Bayonet,			*,		500,	  50
+        CombatKnife,            *,      300,      50
+		HuntingKnife,           *,      300,      50
+		Msp_Vorpalknife,        *,      300,      50
+        bowieknife_mung,  		*,      300,      50
 		
 	<Category> Lampe de fusil
 	    Universallight,         *,      250,    50
-		TLRLight,               *,      150,    25
+		TLRLight,               *,      150,    50
 		
 	<Category> Grenades
-		RGD5Grenade,			 W,		1000,	    150
-		M67Grenade,				 W,		1000,	    150
-		GermanGrenade,			 W,		1000,	    150
-		stielhandgranate_Mung,   W,		1000,	    150
-		MK2Grenade,				 W,		1000,	    150
-		F1Grenade,				 W,		1000,       150	
-		dynamitestick_Mung,      W,     1000,       150
-		FlashGrenade,			 W,		 800,	    150
-		M18SmokeGrenade_Red,	 W,		 500,	    150
-		M18SmokeGrenade_Green,	 W,		 500,	    150
-		M18SmokeGrenade_Yellow,	 W,	     500,	    150
-		M18SmokeGrenade_Purple,	 W,		 500,	    150
-		M18SmokeGrenade_White,	 W,		 500,	    150
-		RDG2SmokeGrenade_Black,	 W,		 500,	    150
-		RDG2SmokeGrenade_White,	 W,		 500,	    150		
+		RGD5Grenade,			 W,		1000,	    100
+		M67Grenade,				 W,		1000,	    100
+		GermanGrenade,			 W,		1000,	    100
+		stielhandgranate_Mung,   W,		1000,	    100
+		MK2Grenade,				 W,		1000,	    100
+		F1Grenade,				 W,		1000,       100	
+		dynamitestick_Mung,      W,     1000,       100
+		FlashGrenade,			 W,		 800,	     50
+		M18SmokeGrenade_Red,	 W,		 500,	     50
+		M18SmokeGrenade_Green,	 W,		 500,	     50
+		M18SmokeGrenade_Yellow,	 W,	     500,	     50
+		M18SmokeGrenade_Purple,	 W,		 500,	     50
+		M18SmokeGrenade_White,	 W,		 500,	     50
+		RDG2SmokeGrenade_Black,	 W,		 500,	     50
+		RDG2SmokeGrenade_White,	 W,		 500,	     50		
 	
-<Trader> Clothing Trader
+<Trader> Vêtements
 	<Category> Femme
-		Skirt_Yellow,				*,	   150,		-1
-		Skirt_Red,					*,	   150,		-1
-		Skirt_Blue,					*,	   150,		-1
-		Skirt_White,				*,	   150,		-1
-		//Skirt_Black,				*,	   150,		-1
-		//Skirt_darkblue,			*,	   150,		-1
-		WomanSuit_Blue,				*,	   160,		-1
-		WomanSuit_White,			*,	   160,		-1
-		WomanSuit_LightGrey,		*,	   160,		-1
-		WomanSuit_DarkGrey,			*,	   160,		-1
-		WomanSuit_Beige,			*,	   160,		-1
-		WomanSuit_Brown,			*,	   160,		-1
-		WomanSuit_Black,			*,	   160,		-1
-		WomanSuit_Khaki,			*,	   160,		-1
-		MiniDress_PinkChecker,		*,	   140,		-1
-		MiniDress_RedChecker,		*,	   140,		-1
-		MiniDress_BlueChecker,		*,	   140,		-1
-		MiniDress_BlueWithDots,		*,	   140,		-1
-		MiniDress_WhiteChecker,		*,	   140,		-1
-		MiniDress_BrownChecker,		*,	   140,		-1
-		MiniDress_GreenChecker,		*,	   140,		-1
-		ShortJeans_Red,				*,	   150,		-1
-		ShortJeans_Blue,			*,	   150,		-1
-		ShortJeans_Darkblue,		*,	   150,		-1
-		ShortJeans_Brown,			*,	   150,		-1
-		ShortJeans_Black,			*,	   150,		-1
-		ShortJeans_Green,			*,	   150,		-1
+		Skirt_Yellow,				*,	   150,		50
+		Skirt_Red,					*,	   150,		50
+		Skirt_Blue,					*,	   150,		50
+		Skirt_White,				*,	   150,		50
+		//Skirt_Black,				*,	   150,		50
+		//Skirt_darkblue,			*,	   150,		50
+		WomanSuit_Blue,				*,	   160,		50
+		WomanSuit_White,			*,	   160,		50
+		WomanSuit_LightGrey,		*,	   160,		50
+		WomanSuit_DarkGrey,			*,	   160,		50
+		WomanSuit_Beige,			*,	   160,		50
+		WomanSuit_Brown,			*,	   160,		50
+		WomanSuit_Black,			*,	   160,		50
+		WomanSuit_Khaki,			*,	   160,		50
+		MiniDress_PinkChecker,		*,	   140,		50
+		MiniDress_RedChecker,		*,	   140,		50
+		MiniDress_BlueChecker,		*,	   140,		50
+		MiniDress_BlueWithDots,		*,	   140,		50
+		MiniDress_WhiteChecker,		*,	   140,		50
+		MiniDress_BrownChecker,		*,	   140,		50
+		MiniDress_GreenChecker,		*,	   140,		50
+		ShortJeans_Red,				*,	   150,		50
+		ShortJeans_Blue,			*,	   150,		50
+		ShortJeans_Darkblue,		*,	   150,		50
+		ShortJeans_Brown,			*,	   150,		50
+		ShortJeans_Black,			*,	   150,		50
+		ShortJeans_Green,			*,	   150,		50
 
-	
 	<Category> Lunette
 		SportGlasses_Orange,			*,		20,     10
 		SportGlasses_Blue,				*,		20,	    10
@@ -669,8 +624,8 @@
 		ThickFramesGlasses,				*,		20,  	10
 		DesignerGlasses,				*,		20, 	10
 	    AviatorGlasses,					*,		20,	    10
-	    NVGoggles,						*,	500000,     -1
-		NVGHeadstrap,					*,	  1000,	    -1
+	    NVGoggles,						*,	800000,  80000 
+		NVGHeadstrap,					*,	  1000,	   100
 		
 	<Category> Brassards
 		Armband_Pink,			*,		20,		-1
@@ -724,12 +679,7 @@
 		Ushanka_Blue,			*,		40,		10
 		Ushanka_Green,			*,		40,		10
 		Ushanka_Black,			*,		40,		10
-		Ushanka_Black,			*,		40,		10
-		CowboyHat_blackbrown,	*,		40,	    10
-		CowboyHat_white,		*,		40,	    10
-		CowboyHat_grey,			*,		40,	    10
-		CowboyHat_darkgreen,	*,		40,	    10
-		CowboyHat_blue,			*,		40,	    10		
+		Ushanka_Black,			*,		40,		10	
 
 	<Category> Casques
 		DirtBikeHelmet_Red,		     *,		50,		15
@@ -737,39 +687,39 @@
 		DirtBikeHelmet_Police,	     *,		50,		15
 		DirtBikeHelmet_Green,	     *,		50,		15
 		DirtBikeHelmet_Chernarus,    *,		50,		15
-		DirtBikeHelmet_Black,	     *,		50,		16
-		DirtBikeHelmet_Khaki,	     *,		50,		18
-		DirtBikeHelmet_Mouthguard,   *,	    50,		 4
-		DirtBikeHelmet_Visor,	     *,		50,		 8
-		MotoHelmet_Red,			     *,		50,		18
-		MotoHelmet_Blue,		     *,		50,		18
-		MotoHelmet_White,		     *,		50,		18
-		MotoHelmet_Lime,		     *,		50,		18
-		MotoHelmet_Grey,		     *,		50,		18
-		MotoHelmet_Black,		     *,		50,		20
-		MotoHelmet_Green,		     *,		50,		22
-		DarkMotoHelmet_Red,		     *,		50,		22
-		DarkMotoHelmet_Blue,	     *,		50,		22
-		DarkMotoHelmet_White,	     *,		50,		22
-		DarkMotoHelmet_Lime,	     *,		50,		22
-		DarkMotoHelmet_Grey,	     *,		50,		22
-		DarkMotoHelmet_Black,	     *,		50,		23
-		DarkMotoHelmet_Green,	     *,		50,		25
-		GreatHelm,				     *,	   100,	    30
+		DirtBikeHelmet_Black,	     *,		50,		15
+		DirtBikeHelmet_Khaki,	     *,		50,		15
+		DirtBikeHelmet_Mouthguard,   *,	    50,		15
+		DirtBikeHelmet_Visor,	     *,		50,		15
+		MotoHelmet_Red,			     *,		50,		15
+		MotoHelmet_Blue,		     *,		50,		15
+		MotoHelmet_White,		     *,		50,		15
+		MotoHelmet_Lime,		     *,		50,		15
+		MotoHelmet_Grey,		     *,		50,		15
+		MotoHelmet_Black,		     *,		50,		15
+		MotoHelmet_Green,		     *,		50,		15
+		DarkMotoHelmet_Red,		     *,		50,		15
+		DarkMotoHelmet_Blue,	     *,		50,		15
+		DarkMotoHelmet_White,	     *,		50,		15
+		DarkMotoHelmet_Lime,	     *,		50,		15
+		DarkMotoHelmet_Grey,	     *,		50,		15
+		DarkMotoHelmet_Black,	     *,		50,		15
+		DarkMotoHelmet_Green,	     *,		50,		15
+		GreatHelm,				     *,	   100,	    50
 
 
 	<Category> Masques
 		NioshFaceMask,			*,	    20,		10
 		HockeyMask,				*,		20,		10
-		Balaclava3Holes_Blue,	*,	   100,		15
-		Balaclava3Holes_Beige,	*,	   100,		15
-		Balaclava3Holes_Black,	*,	   100,		15
-		Balaclava3Holes_Green,	*,	   100,		15
-		//CC_Bandana_Brown,   	*,	    40,		20	
-		//CC_Bandana_DarkBlue,  *,	    40,		20
-		//CC_Bandana_DarkGreen,	*,		40,		20
-		//CC_Bandana_DarkRed,	*,	    40,		20
-		//CC_Bandana_Black,    	*,	    40,		20
+		Balaclava3Holes_Blue,	*,	   100,		50
+		Balaclava3Holes_Beige,	*,	   100,		50
+		Balaclava3Holes_Black,	*,	   100,		50
+		Balaclava3Holes_Green,	*,	   100,		50
+		//CC_Bandana_Brown,   	*,	    40,		10	
+		//CC_Bandana_DarkBlue,  *,	    40,		10
+		//CC_Bandana_DarkGreen,	*,		40,		10
+		//CC_Bandana_DarkRed,	*,	    40,		10
+		//CC_Bandana_Black,    	*,	    40,		10
 	
 
 	<Category> Chemises et T-Shirts
@@ -780,34 +730,34 @@
 		TShirt_White,				*,		90,		12
 		TShirt_Grey,				*,		90,		12
 		TShirt_Beige,				*,		90,		12
-		TShirt_Black,				*,		90,		13
-		TShirt_Green,				*,		90,		13
-		TelnyashkaShirt,			*,		90,		13
-		Shirt_RedCheck,				*,		90,		14
-		Shirt_BlueCheckBright,		*,		90,		14	
-		Shirt_BlueCheck,			*,		90,		14
-		Shirt_WhiteCheck,			*,		90,		14
-		Shirt_PlaneBlack,			*,		90,		14
-		Shirt_GreenCheck,			*,		90,		14
+		TShirt_Black,				*,		90,		12
+		TShirt_Green,				*,		90,		12
+		TelnyashkaShirt,			*,		90,		12
+		Shirt_RedCheck,				*,		90,		12
+		Shirt_BlueCheckBright,		*,		90,		12	
+		Shirt_BlueCheck,			*,		90,		12
+		Shirt_WhiteCheck,			*,		90,		12
+		Shirt_PlaneBlack,			*,		90,		12
+		Shirt_GreenCheck,			*,		90,		12
 
 	<Category> Sweats à capuche et pull
-		Sweater_Red,			*,	   100,		20
-		Sweater_Blue,			*,	   100,		20
-		Sweater_Gray,			*,	   100,		20
-		Sweater_Green,			*,	   100,		20
-		Hoodie_Red,				*,	   100,		20
-		Hoodie_Blue,			*,	   100,		20
-		Hoodie_Grey,			*,	   100,		20
-		Hoodie_Brown,			*,	   100,		20
-		Hoodie_Black,			*,	   100,		20
-		Hoodie_Green,			*,	   100,		20
+		Sweater_Red,			*,	   100,		50
+		Sweater_Blue,			*,	   100,		50
+		Sweater_Gray,			*,	   100,		50
+		Sweater_Green,			*,	   100,		50
+		Hoodie_Red,				*,	   100,		50
+		Hoodie_Blue,			*,	   100,		50
+		Hoodie_Grey,			*,	   100,		50
+		Hoodie_Brown,			*,	   100,		50
+		Hoodie_Black,			*,	   100,		50
+		Hoodie_Green,			*,	   100,		50
 		
 	<Category> Vestes
-		ReflexVest,				*,	   100,		15
-		PoliceVest,				*,	   180,		15
-		HuntingVest,			*,	   150,		15
-		PressVest_LightBlue,	*,	   150,		15
-		PressVest_Blue,			*,	   150,		15
+		ReflexVest,				*,	   100,		50
+		PoliceVest,				*,	   180,		50
+		HuntingVest,			*,	   150,		50
+		PressVest_LightBlue,	*,	   150,		50
+		PressVest_Blue,			*,	   150,		50
 
 
 	<Category> Vestes et manteaux
@@ -836,9 +786,6 @@
 		BomberJacket_Brown,				*,	   200,		30
 		BomberJacket_Black,				*,	   200,		30
 		BomberJacket_Olive,				*,	   200,		30
-		BomberJacket_blackblue,			*,	   200,		30
-		BomberJacket_greyblack,			*,	   200,		30
-		BomberJacket_red,				*,	   200,		30
 		QuiltedJacket_Orange,			*,	   200,		30
 		QuiltedJacket_Yellow,			*,	   200,		30
 		QuiltedJacket_Red,				*,	   200,		30
@@ -872,392 +819,134 @@
 		SlacksPants_Beige,		*,	   150,		50
 		SlacksPants_Brown,		*,	   150,		50
 		SlacksPants_Black,		*,	   150,		50
-		SlacksPants_Khaki,		*,	   150,		60
-		CanvasPantsMidi_Red,	*,	   150,		60
-		CanvasPantsMidi_Violet,	*,	   150,		60
-		CanvasPantsMidi_Blue,	*,	   150,		60
-		CanvasPantsMidi_Grey,	*,	   150,		60
-		CanvasPantsMidi_Beige,	*,	   150,		60	
-		CanvasPants_Red,		*,	   150,		60
-		CanvasPants_Violet,		*,	   150,		60
-		CanvasPants_Blue,		*,	   150,		60
-		CanvasPants_Grey,		*,	   150,		60
-		CanvasPants_Beige,		*,	   150,		60
-		JumpsuitPants_Red,		*,	   150,		60
-		JumpsuitPants_Blue,		*,	   150,		60
-		JumpsuitPants_Grey,		*,	   150,		60
-		JumpsuitPants_Green,	*,	   150,		60
-		CargoPants_Blue,		*,	   200,		80
-		CargoPants_Grey,		*,	   200,		80
-		CargoPants_Beige,		*,	   200,		80
-		CargoPants_Black,		*,	   200,		80
-		CargoPants_Green,		*,	   200,		80
-		Jeans_Blue,				*,	   100,		100
-		Jeans_BlueDark,			*,	   100,		100
-		Jeans_Grey,				*,	   100,		100
-		Jeans_Brown,			*,	   100,		100
-		Jeans_Black,			*,	   100,		100
-		Jeans_Green,			*,	   100,		120
-		HunterPants_Winter,		*,	   200,		150
-		HunterPants_Brown,		*,	   200,	    150
-		HunterPants_Spring,		*,	   200,	    150
-		HunterPants_Autumn,		*,	   200,	    150
-		HunterPants_Summer,		*,	   200,	    150
+		SlacksPants_Khaki,		*,	   150,		50
+		CanvasPantsMidi_Red,	*,	   150,		50
+		CanvasPantsMidi_Violet,	*,	   150,		50
+		CanvasPantsMidi_Blue,	*,	   150,		50
+		CanvasPantsMidi_Grey,	*,	   150,		50
+		CanvasPantsMidi_Beige,	*,	   150,		50	
+		CanvasPants_Red,		*,	   150,		50
+		CanvasPants_Violet,		*,	   150,		50
+		CanvasPants_Blue,		*,	   150,		50
+		CanvasPants_Grey,		*,	   150,		50
+		CanvasPants_Beige,		*,	   150,		50
+		JumpsuitPants_Red,		*,	   150,		50
+		JumpsuitPants_Blue,		*,	   150,		50
+		JumpsuitPants_Grey,		*,	   150,		50
+		JumpsuitPants_Green,	*,	   150,		50
+		CargoPants_Blue,		*,	   200,		50
+		CargoPants_Grey,		*,	   200,		50
+		CargoPants_Beige,		*,	   200,		50
+		CargoPants_Black,		*,	   200,		50
+		CargoPants_Green,		*,	   200,		50
+		Jeans_Blue,				*,	   100,		50
+		Jeans_BlueDark,			*,	   100,		50
+		Jeans_Grey,				*,	   100,		50
+		Jeans_Brown,			*,	   100,		50
+		Jeans_Black,			*,	   100,		50
+		Jeans_Green,			*,	   100,		50
+		HunterPants_Winter,		*,	   200,		50
+		HunterPants_Brown,		*,	   200,	    50
+		HunterPants_Spring,		*,	   200,	    50
+		HunterPants_Autumn,		*,	   200,	    50
+		HunterPants_Summer,		*,	   200,	    50
 	
 	<Category> Chaussures
-		AthleticShoes_Blue,		*,		50,		40
-		AthleticShoes_Grey,		*,		50,		40
-		AthleticShoes_Brown,	*,		50,		40
-		AthleticShoes_Black,	*,		50,		40
-		AthleticShoes_Green,	*,		50,		40
-		JoggingShoes_Violet,	*,	    90,		70
-		JoggingShoes_Red,		*,	    90,		70
-		JoggingShoes_Blue,		*,	    90,		70
-		JoggingShoes_White,		*,	    90,		70
-		JoggingShoes_Black,		*,	    90,		70
-		Sneakers_Red,			*,	   100,		70
-		Sneakers_White,			*,	   100,		70
-		Sneakers_Gray,			*,	   100,		70
-		Sneakers_Green,			*,	   100,		70
-		Sneakers_Black,			*,	   100,		70
-		HikingBootsLow_Blue,	*,	   120,		100
-		HikingBootsLow_Grey,	*,	   120,		100
-		HikingBootsLow_Beige,	*,	   120,		100
-		HikingBootsLow_Black,	*,	   120,		100
-		WorkingBoots_Yellow,	*,	   120,		100
-		WorkingBoots_Grey,		*,	   120,		100
-		WorkingBoots_Beige,		*,	   120,		100
-		WorkingBoots_Brown,		*,	   120,		100
-		WorkingBoots_Green,		*,	   120,		100
-		HikingBoots_Brown,		*,	   150,		100
-		HikingBoots_Black,		*,	   150,		100
+		AthleticShoes_Blue,		*,		50,		10
+		AthleticShoes_Grey,		*,		50,		10
+		AthleticShoes_Brown,	*,		50,		10
+		AthleticShoes_Black,	*,		50,		10
+		AthleticShoes_Green,	*,		50,		10
+		JoggingShoes_Violet,	*,	    90,		10
+		JoggingShoes_Red,		*,	    90,		10
+		JoggingShoes_Blue,		*,	    90,		10
+		JoggingShoes_White,		*,	    90,		10
+		JoggingShoes_Black,		*,	    90,		10
+		Sneakers_Red,			*,	   100,		50
+		Sneakers_White,			*,	   100,		50
+		Sneakers_Gray,			*,	   100,		50
+		Sneakers_Green,			*,	   100,		50
+		Sneakers_Black,			*,	   100,		50
+		HikingBootsLow_Blue,	*,	   120,		50
+		HikingBootsLow_Grey,	*,	   120,		50
+		HikingBootsLow_Beige,	*,	   120,		50
+		HikingBootsLow_Black,	*,	   120,		50
+		WorkingBoots_Yellow,	*,	   120,		50
+		WorkingBoots_Grey,		*,	   120,		50
+		WorkingBoots_Beige,		*,	   120,		50
+		WorkingBoots_Brown,		*,	   120,		50
+		WorkingBoots_Green,		*,	   120,		50
+		HikingBoots_Brown,		*,	   150,		50
+		HikingBoots_Black,		*,	   150,		50
 
-	<Category> Pink
-		//Lennon_glasses_pink_mung,	*,		80,		20
-		BalaclavaMask_Pink,			*,	   100,		50
-		MiniDress_Pink,				*,	   140,		50
-		MiniDress_PinkChecker,		*,	   140,		50
-		BaseballCap_Pink,			*,	   100,		50
-		BaseballCap_CMMG_Pink,		*,	   100,		50
-		BeanieHat_Pink,				*,	   140,		50
-		Raincoat_Pink,				*,	   150,		50
-		//fannypack_pink_mung,		*,	    90,	    10
-		//Hikingbagmung_pink,  		*,	   150,	    15
-
-		
 	<Category> Ceinture et Holster
-		CivilianBelt,			    *,	    250,  	25
-		ChestHolster,				*,		200,    20
-		ChestHolster_lightbrown,	*,		200,    20
+		CivilianBelt,			    *,	    250,  	50
+		ChestHolster,				*,		200,    50
 		
 	<Category> Sacs
 		WaterproofBag_Yellow,	*,	   100,     50
 		WaterproofBag_Orange,	*,	   100,		50
 		WaterproofBag_Green,	*,	   100,		50
-		TaloonBag_Orange,		*,	   200,		100
-		TaloonBag_Violet,		*,	   200,		100
-		TaloonBag_Blue,			*,	   200,		100
-		TaloonBag_Green,		*,	   200,		100
-		DryBag_Yellow,			*,	   400,		200
-		DryBag_Orange,			*,	   400,		200
-		DryBag_Red,				*,	   400,		200
-		DryBag_Blue,			*,	   400,		200
-		DryBag_Black,			*,	   400,		200
-		DryBag_Green,			*,	   400,		200
-		
-	<Category> Vente express
-		Skirt_Yellow,				*,		-1,		50
-		Skirt_Red,					*,		-1,		50
-		Skirt_Blue,					*,		-1,		50
-		Skirt_White,				*,		-1,		50
-		WomanSuit_Blue,				*,		-1,		40
-		WomanSuit_White,			*,		-1,		40
-		WomanSuit_LightGrey,		*,		-1,		40
-		WomanSuit_DarkGrey,			*,		-1,		40
-		WomanSuit_Beige,			*,		-1,		40
-		WomanSuit_Brown,			*,		-1,		40
-		WomanSuit_Black,			*,		-1,		40
-		WomanSuit_Khaki,			*,		-1,		40
-		MiniDress_PinkChecker,		*,		-1,		100
-		MiniDress_RedChecker,		*,		-1,		100
-		MiniDress_BlueChecker,		*,		-1,		100
-		MiniDress_BlueWithDots,		*,		-1,		100
-		MiniDress_WhiteChecker,		*,		-1,		100
-		MiniDress_BrownChecker,		*,		-1,		100
-		MiniDress_GreenChecker,		*,		-1,		100
-		ShortJeans_Red,				*,		-1,		80
-		ShortJeans_Blue,			*,		-1,		80
-		ShortJeans_Darkblue,		*,		-1,		80
-		ShortJeans_Brown,			*,		-1,		80
-		ShortJeans_Black,			*,		-1,		100
-		ShortJeans_Green,			*,		-1,		10
-		SportGlasses_Orange,		*,		-1,		80
-		SportGlasses_Blue,			*,		-1,		90
-		SportGlasses_Black,			*,		-1,		100
-		SportGlasses_Green,			*,		-1,		100
-		ThinFramesGlasses,			*,		-1,		100
-		ThickFramesGlasses,			*,		-1,		110
-		DesignerGlasses,			*,		-1,		150
-		AviatorGlasses,				*,		-1,		200
-		Armband_Pink,			    *,		-1,		100
-		Armband_Yellow,			    *,		-1,		100
-		Armband_Orange,			    *,		-1,		100
-		Armband_Red,			    *,		-1,		100
-		Armband_Blue,			    *,		-1,		100
-		Armband_White,			    *,		-1,		100
-		Armband_Black,			    *,		-1,		100
-		Armband_Green,			    *,		-1,		100
-		//CC_Armband_Brown,		    *,		-1,		100
-		WorkingGloves_Yellow,	    *,		-1,		60
-		WorkingGloves_Beige,	    *,		-1,		80
-		WorkingGloves_Brown,	    *,		-1,		80
-		WorkingGloves_Black,	    *,		-1,		80
-		BaseballCap_Pink,		    *,		-1,		30
-		BaseballCap_Red,		    *,		-1,		30
-		BaseballCap_Blue,		    *,		-1,		30
-		BaseballCap_Beige,		    *,		-1,		30
-		BaseballCap_CMMG_Black,	    *,		-1,		30
-		BaseballCap_Black,		    *,		-1,		30
-		BaseballCap_Olive,		    *,		-1,		40
-		BaseballCap_Camo,		    *,		-1,		50
-		BoonieHat_Orange,		    *,		-1,		50
-		BoonieHat_Red,			    *,		-1,		50
-		BoonieHat_Blue,			    *,		-1,		50
-		BoonieHat_NavyBlue,		    *,		-1,		50
-		BoonieHat_Black,		    *,		-1,		50
-		BoonieHat_Tan,			    *,		-1,		60
-		BoonieHat_Olive,		    *,		-1,		60
-		BoonieHat_DPM,			    *,		-1,		70
-		BoonieHat_Dubok,		    *,		-1,		70
-		BoonieHat_Flecktran,	    *,		-1,		70
-		BeanieHat_Pink,			    *,		-1,		80
-		BeanieHat_Red,			    *,		-1,		80
-		BeanieHat_Blue,			    *,		-1,		80
-		BeanieHat_Grey,			    *,		-1,		80
-		BeanieHat_Beige,		    *,		-1,		80
-		BeanieHat_Brown,		    *,		-1,		80		
-		BeanieHat_Green,		    *,		-1,		90
-		BeanieHat_Black,		    *,		-1,		80
-		Bandana_Polkapattern,	    *,		-1,		20
-		Bandana_Redpattern,		    *,		-1,		20
-		Bandana_Blackpattern,	    *,		-1,		20
-		Bandana_Greenpattern,	    *,		-1,		20
-		Bandana_Camopattern,	    *,		-1,		30
-		Ushanka_Blue,			    *,		-1,		90
-		Ushanka_Green,			    *,		-1,		90
-		Ushanka_Black,			    *,		-1,		90
-		Ushanka_Black,			    *,		-1,		90
-		CowboyHat_blackbrown,	    *,		-1,	    100
-		CowboyHat_white,		    *,		-1,	    100
-		CowboyHat_grey,			    *,		-1,	    100
-		CowboyHat_darkgreen,	    *,		-1,	    100
-		CowboyHat_blue,			    *,		-1,	    100	
-		DirtBikeHelmet_Red,		    *,		-1,		150
-		DirtBikeHelmet_Blue,	    *,		-1,		150
-		DirtBikeHelmet_Police,	    *,		-1,		150
-		DirtBikeHelmet_Green,	    *,		-1,		150
-		DirtBikeHelmet_Chernarus,   *,		-1,		150
-		DirtBikeHelmet_Black,	    *,		-1,		160
-		DirtBikeHelmet_Khaki,	    *,		-1,		180
-		Hoodie_Green,			    *,		-1,		70
-		ReflexVest,				    *,	    -1,		10
-		PoliceVest,				    *,		-1,		100
-		HuntingVest,			    *,		-1,		180
-		PressVest_LightBlue,	    *,		-1,		280
-		PressVest_Blue,			    *,		-1,		300
-		TrackSuitJacket_Red,		*,		-1,		30
-		TrackSuitJacket_LightBlue,	*,		-1,		30
-		TrackSuitJacket_Blue,		*,		-1,		30
-		TrackSuitJacket_Black,		*,		-1,		30
-		TrackSuitJacket_Green,		*,		-1,		30
-		DenimJacket,				*,		-1,		40
-		ManSuit_Blue,				*,		-1,		40
-		ManSuit_White,				*,		-1,		40
-		ManSuit_LightGrey,			*,		-1,		40
-		ManSuit_DarkGrey,			*,		-1,		40
-		ManSuit_Beige,				*,		-1,		40
-		ManSuit_Brown,				*,		-1,		40
-		ManSuit_Black,				*,		-1,		40
-		ManSuit_Khaki,				*,		-1,		40
-		JumpsuitJacket_Red,			*,		-1,		60
-		JumpsuitJacket_Blue,		*,		-1,		60
-		JumpsuitJacket_Gray,		*,		-1,		60
-		JumpsuitJacket_Green,		*,		-1,		60
-		BomberJacket_Maroon,		*,		-1,		60
-		BomberJacket_SkyBlue,		*,		-1,		60
-		BomberJacket_Blue,			*,		-1,		60
-		BomberJacket_Grey,			*,		-1,		60
-		BomberJacket_Brown,			*,		-1,		60
-		BomberJacket_Black,			*,		-1,		70
-		BomberJacket_Olive,			*,		-1,		70
-		BomberJacket_blackblue,		*,		-1,		70
-		BomberJacket_greyblack,		*,		-1,		70
-		BomberJacket_red,			*,		-1,		70
-		QuiltedJacket_Orange,		*,		-1,		60
-		QuiltedJacket_Yellow,		*,		-1,		60
-		QuiltedJacket_Red,			*,		-1,		60
-		QuiltedJacket_Violet,		*,		-1,		60
-		QuiltedJacket_Blue,			*,		-1,		60
-		QuiltedJacket_Grey,			*,		-1,		60
-		QuiltedJacket_Black,		*,		-1,		70
-		QuiltedJacket_Green,		*,		-1,		70
-		HikingJacket_Red,			*,		-1,		90
-		HikingJacket_Blue,			*,		-1,		90
-		HikingJacket_Black,			*,		-1,		90
-		HikingJacket_Green,			*,		-1,		100
-		Raincoat_Pink,				*,		-1,		150
-		Raincoat_Orange,			*,		-1,		150
-		Raincoat_Yellow,			*,		-1,		150
-		Raincoat_Red,				*,		-1,		150
-		Raincoat_Blue,				*,		-1,		150
-		Raincoat_Black,				*,		-1,		200
-		Raincoat_Green,				*,		-1,	    250
-		HuntingJacket_Winter,		*,		-1,	    350
-		HuntingJacket_Brown,		*,		-1,	    350
-		HuntingJacket_Autumn,		*,		-1,	    350
-		HuntingJacket_Spring,		*,		-1,	    350
-		HuntingJacket_Summer,		*,		-1,	    350
-		SlacksPants_Blue,		    *,		-1,		50
-		SlacksPants_White,		    *,		-1,		50
-		SlacksPants_LightGrey,	    *,		-1,		50
-		SlacksPants_DarkGrey,	    *,		-1,		50
-		SlacksPants_Beige,		    *,		-1,		50
-		SlacksPants_Brown,		    *,		-1,		50
-		SlacksPants_Black,		    *,		-1,		50
-		SlacksPants_Khaki,		    *,		-1,		60
-		CanvasPantsMidi_Red,	    *,		-1,		60
-		CanvasPantsMidi_Violet,	    *,		-1,		60
-		CanvasPantsMidi_Blue,	    *,		-1,		60
-		CanvasPantsMidi_Grey,	    *,		-1,		60
-		CanvasPantsMidi_Beige,	    *,		-1,		60	
-		CanvasPants_Red,		    *,		-1,		60
-		CanvasPants_Violet,		    *,		-1,		60
-		CanvasPants_Blue,		    *,		-1,		60
-		CanvasPants_Grey,		    *,		-1,		60
-		CanvasPants_Beige,		    *,		-1,		60
-		JumpsuitPants_Red,		    *,		-1,		60
-		JumpsuitPants_Blue,		    *,		-1,		60
-		JumpsuitPants_Grey,		    *,		-1,		60
-		JumpsuitPants_Green,	    *,		-1,		60
-		CargoPants_Blue,		    *,		-1,		80
-		CargoPants_Grey,		    *,		-1,		80
-		CargoPants_Beige,		    *,		-1,		80
-		CargoPants_Black,		    *,		-1,		80
-		CargoPants_Green,		    *,		-1,		80
-		Jeans_Blue,				    *,		-1,		100
-		Jeans_BlueDark,			    *,		-1,		100
-		Jeans_Grey,				    *,		-1,		100
-		Jeans_Brown,			    *,		-1,		100
-		Jeans_Black,			    *,		-1,		100
-		Jeans_Green,			    *,		-1,		120		
-		HunterPants_Winter,		    *,		-1,		250
-		HunterPants_Brown,		    *,		-1,		30
-		HunterPants_Spring,		    *,		-1,		30
-		HunterPants_Autumn,		    *,		-1,		30
-		HunterPants_Summer,		    *,		-1,		30
-		AthleticShoes_Blue,		    *,		-1,		40
-		AthleticShoes_Grey,		    *,		-1,		50
-		AthleticShoes_Brown,	    *,		-1,		50
-		AthleticShoes_Black,	    *,		-1,		50
-		AthleticShoes_Green,	    *,		-1,		50
-		JoggingShoes_Violet,	    *,		-1,		70
-		JoggingShoes_Red,		    *,		-1,		70
-		JoggingShoes_Blue,		    *,		-1,		70
-		JoggingShoes_White,		    *,		-1,		70
-		JoggingShoes_Black,		    *,		-1,		70
-		Sneakers_Red,			    *,		-1,		70
-		Sneakers_White,			    *,		-1,		70
-		Sneakers_Gray,			    *,		-1,		70
-		Sneakers_Green,			    *,		-1,		70
-		Sneakers_Black,			    *,		-1,		70
-		HikingBootsLow_Blue,	    *,		-1,		120
-		HikingBootsLow_Grey,	    *,		-1,		120
-		HikingBootsLow_Beige,	    *,		-1,		130
-		HikingBootsLow_Black,	    *,		-1,		140
-		WorkingBoots_Yellow,	    *,		-1,		120
-		WorkingBoots_Grey,		    *,		-1,		150
-		WorkingBoots_Beige,		    *,		-1,		150
-		WorkingBoots_Brown,		    *,		-1,		150
-		WorkingBoots_Green,		    *,		-1,		170
-		HikingBoots_Brown,		    *,		-1,		200
-		HikingBoots_Black,		    *,		-1,		200
-		//Lennon_glasses_pink_mung,	*,		80,		200
-		BalaclavaMask_Pink,			*,		-1,		120
-		MiniDress_Pink,				*,		-1,		100
-		MiniDress_PinkChecker,		*,		-1,		100
-		BaseballCap_Pink,			*,		-1,		30
-		BaseballCap_CMMG_Pink,		*,		-1,		30
-		BeanieHat_Pink,				*,		-1,		80
-		Raincoat_Pink,				*,		-1,		150
-		//fannypack_pink_mung,		*,		-1,	    150
-		//Hikingbagmung_pink,  		*,		-1,	    15
-		CivilianBelt,				*,		-1,	    300
-	    ChestHolster,				*,		-1,	    500
-		ChestHolster_lightbrown,	*,		-1,	    500
-		WaterproofBag_Yellow,	    *,		-1,     150
-		WaterproofBag_Orange,	    *,		-1,		150
-		WaterproofBag_Green,	    *,		-1,		150
-		TaloonBag_Orange,		    *,		-1,		100
-		TaloonBag_Violet,		    *,		-1,		100
-		TaloonBag_Blue,			    *,		-1,		100
-		TaloonBag_Green,		    *,		-1,		100
-		DryBag_Yellow,			    *,		-1,		200
-		DryBag_Orange,			    *,		-1,		200
-		DryBag_Red,				    *,		-1,		200
-		DryBag_Blue,			    *,		-1,		200
-		DryBag_Black,			    *,		-1,		200
-		DryBag_Green,			    *,		-1,		200
+		TaloonBag_Orange,		*,	   200,		50
+		TaloonBag_Violet,		*,	   200,		50
+		TaloonBag_Blue,			*,	   200,		50
+		TaloonBag_Green,		*,	   200,		50
+		DryBag_Yellow,			*,	   400,		50
+		DryBag_Orange,			*,	   400,		50
+		DryBag_Red,				*,	   400,		50
+		DryBag_Blue,			*,	   400,		50
+		DryBag_Black,			*,	   400,		50
+		DryBag_Green,			*,	   400,		50
 	
 <Trader> Vehicles Trader
 	<Category> Véhicules
-		Sedan_02,					V,	   125000,	10000
-		Sedan_02_Red,				V,	   125000,	10000
-		Sedan_02_Grey,				V,	   125000,	10000
-		OffroadHatchback,			V,	   150000,	15000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
-		OffroadHatchback_Blue,		V,	   150000,	15000
-		OffroadHatchback_White,		V,	   150000,	15000
-		CivilianSedan,				V,	   185000,	20000
-		CivilianSedan_Wine,			V,	   185000,	20000
-		Hatchback_02_Blue,			V,	   250000,	25000
-		Hatchback_02,				V,	   250000,	25000
+		Sedan_02,					VNK,	   130000,	13000
+		Sedan_02_Red,				VNK,	   130000,	13000
+		Sedan_02_Grey,				VNK,	   130000,	13000
+		OffroadHatchback,			VNK,	   150000,	15000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
+		OffroadHatchback_Blue,		VNK,	   150000,	15000
+		OffroadHatchback_White,		VNK,	   150000,	15000
+		CivilianSedan,				VNK,	   180000,	18000
+		CivilianSedan_Wine,			VNK,	   180000,	18000
+		Hatchback_02_Blue,			VNK,	   300000,	30000
+		Hatchback_02,				VNK,	   300000,	30000
 	
 	<Category> Pièces de véhicules
-	HeadlightH7_Box,           *,       100,     20
-	Spark Plug                 *,       500,     50
-	Car Radiator               *,       600,    110
-    Canister Gasoline          *,      3000,     -1
+	    HeadlightH7_Box,           *,       500,     50
+	    Spark Plug                 *,      1000,    100
+	    Car Radiator               *,       600,    100
+        Canister Gasoline          *,      5000,    250
 	
-
 <Trader> Alpha
 	<Category> Viande
 		ChickenBreastMeat,		S,	    -1,		50
 		GoatSteakMeat,			S,	    -1,		90
-		SheepSteakMeat,			S,	    -1,		100
-		PigSteakMeat,			S,	    -1,		120
+		SheepSteakMeat,			S,	    -1,		90
+		PigSteakMeat,			S,	    -1,		100
 		BoarSteakMeat,			S,	    -1,		180
 	    CowSteakMeat,			S,		-1,		150
-		DeerSteakMeat,			S,		-1,	    220
+		DeerSteakMeat,			S,		-1,	    200
 		WolfSteakMeat,			S,		-1,		250
 		BearSteakMeat,          S,		-1,		300
 		Carp,					S,		-1,		200
 		Sardines,				S,		-1,		150
-		Mackerel,				S,		-1,		185
-        zeroy_chub              S,      -1,     165            
-		zeroy_cod               S,      -1,     240                                                 
-		zeroy_salmon            S,      -1,     240
-		zeroy_pike              S,      -1,     240
-		zeroy_shell             S,      -1,      50 
+		Mackerel,				S,		-1,		180
+        zeroy_chub              S,      -1,     180            
+		zeroy_cod               S,      -1,     180                                                 
+		zeroy_salmon            S,      -1,     180
+		zeroy_pike              S,      -1,     180
+		zeroy_shell             S,      -1,     180 
 
 	<Category> Peau
-		GoatPelt,               s,        -1,        150
+		GoatPelt,               s,        -1,        200
 		SheepPelt,              s,        -1,        200
-		PigPelt,                s,        -1,        200
+		PigPelt,                s,        -1,        250
         CowPelt,                s,        -1,        250
-		WildboarPelt,           s,        -1,        200
+		WildboarPelt,           s,        -1,        250
 		DeerPelt,           	s,        -1,        300
         WolfPelt,               s,        -1,        500
         BearPelt,               s, 	      -1, 	     3000
-		Bearhead_mung,          s,		  -1,		 2800
+		Bearhead_mung,          s,		  -1,		 2000
 		
 	<Category> Money Exchange
 		MoneyRuble1,			1,		1,		-1
@@ -1276,8 +965,8 @@
 
 <Trader> Dealers cocke
 	<Category> La réserve a JCVD
-		DP_CocaBag,					1,		-1,		2000
-		//DP_CocaBrick,				*,		-1,		44800
+		DP_CocaBag,					1,		-1,		20000
+		//DP_CocaBrick,				*,		-1,		45000
 		
 		
 
