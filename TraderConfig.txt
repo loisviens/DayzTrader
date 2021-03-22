@@ -27,11 +27,7 @@
 		Apple,					*,		10,		 5
 		Pear,					*,		10,		 5
 		Banana,					*,		10,		 2
-		Tomato,					*,		-1,	    -1
 		Potato,					*,		10,		 5
-		GreenBellPepper,		*,		-1,	    -1
-		Zucchini,				*,		-1,	    -1
-		Pumpkin,				*,		-1,	    -1
 
 	<Category> Encas
 		PowderedMilk,			*,	    20,		10
@@ -268,19 +264,19 @@
 	    Winchester70,								W,		 25000,	  2500
 	    FP4_SOCOM_16,								W,		130000,	 13000
 	    R700,										W,		160000,	 16000
-	    PSG1,										W,		180000,  18000
-		FP4_M24_Rifle,								W,		180000,	 18000
+	    PSG1,										W,		220000,  22000
+		FP4_M24_Rifle,								W,		240000,	 24000
 		FP4_M24_Rifle_Snake,						W,		240000,	 24000
-	    csmcmillan_mung,							W,		200000,	 20000
+	    csmcmillan_mung,							W,		300000,	 30000
 		
 	<Category> Fusils Sniper Russe
 	    svt40,										W,		30000,	  3000
 		VSK94,              						W,		70000,	  7000
 	    VSS,										W,		70000,	  7000
         Vintorez,                           		W,	 	70000,	  7000
-		SV98,										W,	 	190000,	 19000
-		SVD,										W,		190000,	 19000
-	    SVD_1963,									W,		190000,	 19000		
+		SV98,										W,	 	220000,	 22000
+		SVD,										W,		250000,	 25000
+	    SVD_1963,									W,		250000,	 25000		
 		
 	<Category> Armes Rare
 		Engraved1911,								W,		15000,	   1500
@@ -912,10 +908,10 @@
 		Hatchback_02,				VNK,	   300000,	30000
 	
 	<Category> Pièces de véhicules
-	    HeadlightH7_Box,           *,       500,     50
-	    Spark Plug                 *,      1000,    100
-	    Car Radiator               *,       600,    100
-        Canister Gasoline          *,      5000,    250
+	    HeadlightH7_Box,           	*,       500,     50
+	    Spark Plug,                 *,      1000,    100
+	    Car Radiator,             	*,       600,    100
+        Canister Gasoline,          *,      5000,    250
 	
 <Trader> Alpha
 	<Category> Viande
@@ -931,11 +927,11 @@
 		Carp,					S,		-1,		200
 		Sardines,				S,		-1,		150
 		Mackerel,				S,		-1,		180
-        zeroy_chub              S,      -1,     180            
-		zeroy_cod               S,      -1,     180                                                 
-		zeroy_salmon            S,      -1,     180
-		zeroy_pike              S,      -1,     180
-		zeroy_shell             S,      -1,     180 
+        zeroy_chub,             S,      -1,     180            
+		zeroy_cod,              S,      -1,     180                                                 
+		zeroy_salmon,           S,      -1,     180
+		zeroy_pike,             S,      -1,     180
+		zeroy_shell,            S,      -1,     180 
 
 	<Category> Peau
 		GoatPelt,               s,        -1,        200
