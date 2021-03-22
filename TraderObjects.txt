@@ -1,0 +1,156 @@
+// ------------------------------------------------------ Trader Markers -------------------------------------------------------
+
+//Trader Consumable
+<TraderMarker> 			0
+<TraderMarkerPosition>	4800.161133, 270.528900, 6814.409668
+<TraderMarkerSafezone>	100
+
+//Trader Misc
+<TraderMarker> 			1
+<TraderMarkerPosition>	4824.136719, 270.239471, 6826.684082
+<TraderMarkerSafezone>	100
+
+//Trader Armes
+<TraderMarker> 			2
+<TraderMarkerPosition>	4784.759766, 270.934723, 6833.597168
+<TraderMarkerSafezone>	100
+
+//Trader Atacements
+<TraderMarker> 			3
+<TraderMarkerPosition>	4783.976074, 270.949860, 6832.569824
+<TraderMarkerSafezone>	100
+
+//Trader Vetements
+<TraderMarker> 			4
+<TraderMarkerPosition>	4805.354980, 270.365906, 6826.653809
+<TraderMarkerSafezone>	100
+
+//Trader Mecano
+<TraderMarker> 			5
+<TraderMarkerPosition>	4823.726563, 270.157074, 6823.990723
+<TraderMarkerSafezone>	100
+<VehicleSpawn>           4821.563965, 270.111420, 6815.375977        // Vehicle Spawnpoint for Trader;     Coordinate X,     Coordinate Y,     Coordinate Z (optional)
+<VehicleSpawnOri>        135,        0,            0            // Vehicle Spawnpoint Orientation;     Yaw,             Pitch,             Roll 
+
+//Trader Chasse
+<TraderMarker> 			6
+<TraderMarkerPosition>	597.5, 275.99, 6745
+<TraderMarkerSafezone>	0
+
+//kim weed trader
+<TraderMarker> 			7
+<TraderMarkerPosition>	5463.4,	101,	2665.4
+<TraderMarkerSafezone>	0
+
+//trader coke
+<TraderMarker> 			8
+<TraderMarkerPosition>	11674, 5.1, 3133.2
+<TraderMarkerSafezone>	0
+
+// ------------------------------------------------------ Objects to Spawn ------------------------------------------------------
+
+//Trader Consumable
+<Object> 			SurvivorF_Naomi
+<ObjectPosition>	4800.161133, 270.528900, 6814.409668
+<ObjectOrientation>	45,	0,			0
+<ObjectAttachment>	Layered_Shirt_Lily
+<ObjectAttachment>	Poncho_BlackAndWhite2
+<ObjectAttachment>	Fannypack_pink_mung
+<ObjectAttachment>	CargoPants_Black
+<ObjectAttachment>	JoggingShoes_Violet
+
+//Trader Misc
+<Object> 			SurvivorM_Jose
+<ObjectPosition>	4824.136719, 270.239471, 6826.684082
+<ObjectOrientation>	-85,	0,			0
+<ObjectAttachment>	WorkingBoots_Yellow
+<ObjectAttachment>	WorkingGloves_Yellow
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	RadarCap_Black
+<ObjectAttachment>	Jeans_Blue
+<ObjectAttachment>	Sweater_Gray
+<ObjectAttachment>	cigarette_mung
+<ObjectAttachment>	LugWrench
+
+//Trader Armes
+<Object> 			SurvivorM_Quinn
+<ObjectPosition>	4784.759766, 270.934723, 6833.597168
+<ObjectOrientation>	115,	0,			0
+<ObjectAttachment>	OMNOGLoves_Gray
+<ObjectAttachment>	MilitaryBeret_ChDKZ
+<ObjectAttachment>	Masswoodlandcamovest
+<ObjectAttachment>	MilitaryBoots_Black
+<ObjectAttachment>	Massurbancamom65
+<ObjectAttachment>	Massurbancamocargopants
+<ObjectAttachment>	ASVAL
+	
+//Trader Atachements
+<Object> 			SurvivorM_Rolf
+<ObjectPosition>	4783.976074, 270.949860, 6832.569824
+<ObjectOrientation>	115,	0,			0
+<ObjectAttachment>	PilotkaCap
+<ObjectAttachment>	JungleBoots_Green
+<ObjectAttachment>	Sweater_Green
+<ObjectAttachment>	CargoPants_Green
+<ObjectAttachment>	AviatorGlasses
+<ObjectAttachment>	Msp_GrenadeBox
+
+//Trader Vetements
+<Object> 			SurvivorF_Eva
+<ObjectPosition>	4805.354980, 270.365906, 6826.653809
+<ObjectOrientation>	190,	0,			0
+<ObjectAttachment>	Fingerless_Gloves
+<ObjectAttachment>	High_Knee_Sneakers_Black
+<ObjectAttachment>	Latex_White_Leggings
+<ObjectAttachment>	Shirt_WhiteCheck
+<ObjectAttachment>	MassFedora_White
+
+//Trader mecano
+<Object> 			SurvivorM_Mirek
+<ObjectPosition>	4823.726563, 270.157074, 6823.990723
+<ObjectOrientation>	-85,	0,			0
+<ObjectAttachment>	JumpsuitPants_blue
+<ObjectAttachment>	JumpsuitJacket_blue
+<ObjectAttachment>	WorkingGloves_Black
+<ObjectAttachment>	WorkingBoots_Yellow
+<ObjectAttachment>	ReflexVest
+<ObjectAttachment>	ConstructionHelmet_Red
+<ObjectAttachment>	Wrench
+
+//Chasseur
+<Object> 			SurvivorF_Irena						// Classname
+<ObjectPosition>	597.5, 275.99, 6745		// Coordinate X, 	Coordinate Y, 	Coordinate Z
+<ObjectOrientation>	10, 0,			0			// Yaw, 			Pitch, 			Roll
+//<ObjectAttachment>	NPC_DUMMY						// Add this if you are using an non Character Object for an Trader (like Vending Machines, etc.). It is needed to make the User Action for the Trading Menu work.
+<ObjectAttachment>	BearSteakMeat					// Add an Item to the Traders Inventory;
+<ObjectAttachment>	CourierBag
+<ObjectAttachment>	Zeroy_fishing_Cap_Camo0
+<ObjectAttachment>	Zeroy_fishing_HuntingJacket_Camo
+<ObjectAttachment>	Zeroy_fishing_Pants_Camo
+<ObjectAttachment>	Zeroy_fishing_Wellies_Camo1
+
+//kim trader weed
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	5463.4,	101,	2665.4
+<ObjectOrientation>	-148,	0,			0
+<ObjectAttachment>	BandanaMask_BlackPattern
+<ObjectAttachment>	TrackSuitJacket_Black
+<ObjectAttachment>	TrackSuitPants_Black
+<ObjectAttachment>	JoggingShoes_Black
+<ObjectAttachment>	CannabisBrick
+<ObjectAttachment>	Lennon_glasses_black_mung
+<ObjectAttachment>	RadarCap_Black
+<ObjectAttachment>	WorkingGloves_Black
+
+//trader coke
+<Object> 			SurvivorM_Taiki
+<ObjectPosition>	11674, 5.1, 3133.2
+<ObjectOrientation>	-170,	0,			0
+<ObjectAttachment>	Blouse_White
+<ObjectAttachment>	SurgicalGloves_White
+<ObjectAttachment>	MedicalScrubsPants_White
+<ObjectAttachment>	JoggingShoes_White
+<ObjectAttachment>	GasMask
+
+//<OpenFile> FileName.txt								// Links to another File; Must be right above <FileEnd>!
+<FileEnd>												// This has to be on the End of this File and is very importand!
