@@ -885,6 +885,14 @@
 	    Spark Plug,                 *,      1000,    100
 	    Car Radiator,             	*,       600,    100
         Canister Gasoline,          *,      5000,    250
+		HatchbackWheel,				*,     10000,    500
+		HatchbackWheel_02_Wheel,	*,     10000,    500
+		CivSedanWheel,				*,     10000,    500
+		Sedan_02_wheel,				*,     10000,    500
+		Truck_01_Wheel,				*,     15000,    500
+		Truck_01_WheelDouble,		*,     15000,    500
+		Tractor_wheel_Front,		*,     10000,    500
+		Tractor_wheel_Rear,			*,     10000,    500
 	
 <Trader> Alpha
 	<Category> Viande
