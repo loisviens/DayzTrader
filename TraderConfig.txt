@@ -283,7 +283,7 @@
 		TTCSR25_Desert,								W,	    1200000,	120000
 		TTCSR25_OD,									W,	    1200000,	120000
 		TTC_M24,									W,	    1500000,	150000
-		TTC_M24_WoodlandO1d,						W,	    1500000, 	150000
+		TTC_M24_WoodlandOld,						W,	    1500000, 	150000
 		TTC_R700,									W,	    1500000,	150000
 		TTC_XM2010,									W,	    1600000,	160000
 		TTC_Beowulf,								W,	    2000000,	200000
@@ -931,11 +931,19 @@
 		CP_CannabisBrickKush, 		*, -1, 4000
 		CP_CannabisBrickStardawg, 	*, -1, 15000
 		
+	<Category> Echange de monaie
+		MoneyRuble50,			1,		50,		-1
+		MoneyRuble100,			1,		100,	-1
+		
 
 <Trader> Dealers cocke
 	<Category> La réserve a JCVD
 		DP_CocaBag,					1,		-1,		20000
 		//DP_CocaBrick,				*,		-1,		45000
+		
+	<Category> Echange de monaie
+		MoneyRuble50,			1,		50,		-1
+		MoneyRuble100,			1,		100,	-1
 		
 		
 
